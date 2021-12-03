@@ -999,3 +999,871 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.12.03-15.08.17:732][487]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.12.03-15.08.21:389][597]LogSlate: Window 'Save Asset As' being destroyed
 [2021.12.03-15.08.47:498][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.12.03-15.17.23:401][833]LogSlate: Window 'Project Settings' being destroyed
+[2021.12.03-15.17.23:405][833]LogSlate: Window 'Project Settings' being destroyed
+[2021.12.03-15.17.27:904][350]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2021.12.03-15.17.27:985][350]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 127 classes and 0 folders.
+[2021.12.03-15.17.28:557][350]LogStaticMesh: StaticMesh /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox should be resaved to improve async compilation performance.
+[2021.12.03-15.18.07:769][829]LogSlate: Window 'BP_Player' being destroyed
+[2021.12.03-15.18.07:776][829]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-15.18.07:777][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-15.18.07:851][829]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2021.12.03-15.18.08:232][829]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.03-15.18.08:262][829]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/CharacterMovementComponent_16.svg'. File could not be found
+[2021.12.03-15.24.45:818][701]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-15.24.45:849][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.12.03-15.26.25:404][582]LogSlate: Took 0.003733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.12.03-15.26.57:160][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.12.03-15.26.57:161][233]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Gym' took 0.018
+[2021.12.03-15.26.57:161][233]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_Player] ([1] browsable assets)...
+[2021.12.03-15.26.57:161][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_Player]
+[2021.12.03-15.26.57:165][233]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Player_Auto117C44DA04268DFB46FC45AA75C75AE80.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Autosaves/Game/Player/BP_Player_Auto1.uasset'
+[2021.12.03-15.26.57:165][233]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.12.03-15.31.04:674][863]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.03-15.31.04:689][863]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.03-15.31.20:490][759]LogContentBrowser: Attempting asset rename: NewFolder -> _Enums
+[2021.12.03-15.31.20:490][759]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.03-15.31.25:263][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.12.03-15.31.25:321][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset" SILENT=true
+[2021.12.03-15.31.25:324][293]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Player0670D56844BEABC914A0799B45ED274B.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset'
+[2021.12.03-15.31.25:335][293]AssetCheck: New page: Asset Save: BP_Player
+[2021.12.03-15.31.25:335][293]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2021.12.03-15.32.00:878][704]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.03-15.32.07:045][384]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2021.12.03-15.32.07:054][384]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2021.12.03-15.32.51:595][699]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> EPlayerState
+[2021.12.03-15.32.51:595][699]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2021.12.03-15.32.52:089][752]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Player/_Enums/EPlayerState.EPlayerState
+[2021.12.03-15.33.08:815][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.12.03-15.33.08:870][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/_Enums/EPlayerState" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/_Enums/EPlayerState.uasset" SILENT=true
+[2021.12.03-15.33.08:871][645]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/EPlayerStateBE2A0F9049E64CF473C257B1A385AEF4.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/_Enums/EPlayerState.uasset'
+[2021.12.03-15.33.08:877][645]AssetCheck: New page: Asset Save: EPlayerState
+[2021.12.03-15.33.08:878][645]LogContentValidation: Display: Validating UserDefinedEnum /Game/Player/_Enums/EPlayerState.EPlayerState
+[2021.12.03-15.34.33:919][568]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-15.34.33:946][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.12.03-15.35.36:070][921]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-15.35.36:097][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.12.03-15.36.34:388][823]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-15.36.34:390][823]LogClass: Warning: Type mismatch in StateCurrent of BP_Player_C - Previous (BoolProperty) Current(ByteProperty) for package:  FObjectReader
+[2021.12.03-15.36.34:415][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.12.03-15.37.00:124][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.12.03-15.37.00:125][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Gym' took 0.017
+[2021.12.03-15.37.00:125][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_Player] ([1] browsable assets)...
+[2021.12.03-15.37.00:125][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_Player]
+[2021.12.03-15.37.00:128][823]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Player_Auto2FF257E4A44D58682358BB9B69E16D94A.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Autosaves/Game/Player/BP_Player_Auto2.uasset'
+[2021.12.03-15.37.00:129][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/_Enums/EPlayerState] ([1] browsable assets)...
+[2021.12.03-15.37.00:129][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/_Enums/EPlayerState]
+[2021.12.03-15.37.00:129][823]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/EPlayerState_Auto274D87A254CFACEF140B29AB44E5E73CF.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Autosaves/Game/Player/_Enums/EPlayerState_Auto2.uasset'
+[2021.12.03-15.37.00:130][823]LogFileHelpers: Auto-saving content packages took 0.005
+[2021.12.03-15.38.44:171][249]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-15.38.44:198][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.12.03-15.39.33:140][ 50]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-15.39.33:166][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.12.03-15.40.53:429][506]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-15.40.53:456][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.12.03-15.45.15:813][381]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-15.45.15:844][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.12.03-15.47.56:110][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.12.03-15.47.56:111][928]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Gym' took 0.019
+[2021.12.03-15.47.56:111][928]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_Player] ([1] browsable assets)...
+[2021.12.03-15.47.56:111][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_Player]
+[2021.12.03-15.47.56:120][928]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Player_Auto3891D6E324766FB816AB853ABF45CE795.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Autosaves/Game/Player/BP_Player_Auto3.uasset'
+[2021.12.03-15.47.56:120][928]LogFileHelpers: Auto-saving content packages took 0.010
+[2021.12.03-15.51.40:939][309]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-15.51.40:969][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.12.03-15.54.18:751][959]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-15.54.18:781][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.12.03-15.55.06:948][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.12.03-15.55.06:992][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset" SILENT=true
+[2021.12.03-15.55.06:997][503]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerA5A56A5340116E08D2DC5095E65A3C95.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset'
+[2021.12.03-15.55.06:998][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/_Enums/EPlayerState" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/_Enums/EPlayerState.uasset" SILENT=true
+[2021.12.03-15.55.06:998][503]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/EPlayerState243AA02A4AB52356AD7C738740E73653.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/_Enums/EPlayerState.uasset'
+[2021.12.03-15.55.07:009][503]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.03-15.55.07:009][503]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2021.12.03-15.55.07:009][503]LogContentValidation: Display: Validating UserDefinedEnum /Game/Player/_Enums/EPlayerState.EPlayerState
+[2021.12.03-16.05.19:082][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.12.03-16.07.29:460][310]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_PlayerController.BP_PlayerController
+[2021.12.03-16.07.54:444][251]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.07.54:444][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.07.54:510][251]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_PlayerController.BP_PlayerController
+[2021.12.03-16.12.01:156][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.12.03-16.12.01:157][ 29]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Gym' took 0.025
+[2021.12.03-16.12.01:157][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_PlayerController] ([1] browsable assets)...
+[2021.12.03-16.12.01:157][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_PlayerController]
+[2021.12.03-16.12.01:161][ 29]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerController_Auto4D935940347D4F43530D4A7820B44B1F7.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Autosaves/Game/Player/BP_PlayerController_Auto4.uasset'
+[2021.12.03-16.12.01:161][ 29]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.12.03-16.15.41:996][804]BlueprintLog: New page: Compile BP_PlayerController
+[2021.12.03-16.15.42:026][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.12.03-16.16.41:965][933]Cmd: DELETE
+[2021.12.03-16.16.41:965][933]Cmd: ACTOR DELETE
+[2021.12.03-16.16.41:966][933]LogEditorActor: Deleted Actor: PlayerStart
+[2021.12.03-16.16.41:988][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.12.03-16.16.41:989][933]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.12.03-16.17.39:361][601]LogLevelInstance: Warning: Failed to move actors out of Level Instance because not all actors could be moved
+[2021.12.03-16.18.17:380][ 61]Cmd: DELETE
+[2021.12.03-16.18.17:380][ 61]Cmd: ACTOR DELETE
+[2021.12.03-16.18.34:714][129]LogLevelInstance: Warning: Failed to move actors out of Level Instance because not all actors could be moved
+[2021.12.03-16.18.53:800][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.12.03-16.18.53:863][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.12.03-16.18.53:873][393]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Level_Gym7B35A45149E00CFBD776FA948602ADAF.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Level_Gym.umap'
+[2021.12.03-16.18.53:875][393]LogFileHelpers: Saving map 'Level_Gym' took 0.029
+[2021.12.03-16.18.53:876][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerController" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset" SILENT=true
+[2021.12.03-16.18.53:881][393]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerController034C39A5441FEF67271362B816AE8E2E.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset'
+[2021.12.03-16.18.53:890][393]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.03-16.18.53:890][393]LogContentValidation: Display: Validating World /Game/Levels/Level_Gym.Level_Gym
+[2021.12.03-16.18.53:890][393]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PlayerController.BP_PlayerController
+[2021.12.03-16.19.00:649][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.12.03-16.19.35:484][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.12.03-16.19.35:548][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.12.03-16.19.35:557][288]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Level_GymB142F0864B4090D5FAA0359FE9AFE96B.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Level_Gym.umap'
+[2021.12.03-16.19.35:559][288]LogFileHelpers: Saving map 'Level_Gym' took 0.029
+[2021.12.03-16.19.35:568][288]AssetCheck: New page: Asset Save: Level_Gym
+[2021.12.03-16.19.35:568][288]LogContentValidation: Display: Validating World /Game/Levels/Level_Gym.Level_Gym
+[2021.12.03-16.20.28:951][661]LogDebuggerCommands: Repeating last play command: Simulate
+[2021.12.03-16.20.28:956][661]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.03-16.20.28:956][661]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2021.12.03-16.20.28:978][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.12.03-16.20.28:979][661]LogPlayLevel: PlayLevel: Blueprint regeneration took 22 ms (1 blueprints)
+[2021.12.03-16.20.28:979][661]PIE: New page: SIE session: Level_Gym (3 déc. 2021 à 18:20:28)
+[2021.12.03-16.20.28:980][661]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.03-16.20.28:981][661]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.03-16.20.28:981][661]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.20.28:984][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003195s)
+[2021.12.03-16.20.28:985][661]LogAIModule: Creating AISystem for world Level_Gym
+[2021.12.03-16.20.28:986][661]LogPlayLevel: PIE: World Init took: (0.001718s)
+[2021.12.03-16.20.28:986][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Gym.Level_Gym to /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym (0.005030s)
+[2021.12.03-16.20.29:004][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.12.03-16.20.29:004][661]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.03-16.20.29:004][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-16.20.29:004][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-16.20.29:004][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-16.20.29:004][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-16.20.29:004][661]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-16.20.29:004][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-16.20.29:004][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-16.20.29:004][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-16.20.29:005][661]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-16.20.29:005][661]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-16.20.29:011][661]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-16.20.29:011][661]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-16.20.29:015][661]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2021.12.03-16.20.29:015][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-16.20.29:015][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-16.20.29:015][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-16.20.29:016][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-16.20.29:016][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-16.20.29:016][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-16.20.29:016][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-16.20.29:016][661]LogInit: FAudioDevice initialized.
+[2021.12.03-16.20.29:016][661]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_Gym'.
+[2021.12.03-16.20.29:020][661]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.12.03-16.20.29:021][661]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2021.12.03-17.20.29
+[2021.12.03-16.20.29:021][661]LogWorld: Bringing up level for play took: 0.000857
+[2021.12.03-16.20.29:021][661]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.12.03-16.20.29:022][661]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.12.03-16.20.29:029][661]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.12.03-16.20.29:030][661]PIE: Server logged in
+[2021.12.03-16.20.29:030][661]PIE: Play in editor total start time 0,077 seconds.
+[2021.12.03-16.20.29:057][662]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/GameStateBase_16.svg'. File could not be found
+[2021.12.03-16.21.01:635][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.21.01:635][431]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.21.01:635][431]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.21.01:636][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.21.01:647][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-16.21.01:681][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.21.01:704][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.21.01:704][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.21.01:705][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.21.01:725][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.12.03-16.21.01:752][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.12.03-16.21.01:779][432]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.12.03-16.21.14:585][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.12.03-16.21.14:633][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.03-16.21.14:642][939]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Level_GymC2DC9DF54F35B3A1A394619D0994681C.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Level_Gym.umap'
+[2021.12.03-16.21.14:644][939]LogFileHelpers: Saving map 'Level_Gym' took 0.032
+[2021.12.03-16.21.14:653][939]AssetCheck: New page: Asset Save: Level_Gym
+[2021.12.03-16.21.14:654][939]LogContentValidation: Display: Validating World /Game/Levels/Level_Gym.Level_Gym
+[2021.12.03-16.23.20:478][909]BlueprintLog: New page: Compile BP_PlayerController
+[2021.12.03-16.23.20:512][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.12.03-16.23.26:099][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.12.03-16.23.26:147][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerController" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset" SILENT=true
+[2021.12.03-16.23.26:153][555]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerController328575F742AC05674CF0AE86B68A9B08.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset'
+[2021.12.03-16.23.26:162][555]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.12.03-16.23.26:162][555]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PlayerController.BP_PlayerController
+[2021.12.03-16.23.36:128][712]LogDebuggerCommands: Repeating last play command: Simulate
+[2021.12.03-16.23.36:131][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.03-16.23.36:131][712]PIE: New page: SIE session: Level_Gym (3 déc. 2021 à 18:23:36)
+[2021.12.03-16.23.36:131][712]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.23.36:135][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003603s)
+[2021.12.03-16.23.36:137][712]LogAIModule: Creating AISystem for world Level_Gym
+[2021.12.03-16.23.36:137][712]LogPlayLevel: PIE: World Init took: (0.002154s)
+[2021.12.03-16.23.36:137][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Gym.Level_Gym to /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym (0.005930s)
+[2021.12.03-16.23.36:159][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.12.03-16.23.36:163][712]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.03-16.23.36:163][712]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-16.23.36:163][712]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-16.23.36:163][712]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-16.23.36:163][712]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-16.23.36:163][712]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-16.23.36:163][712]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-16.23.36:163][712]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-16.23.36:163][712]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-16.23.36:163][712]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-16.23.36:163][712]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-16.23.36:169][712]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-16.23.36:169][712]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-16.23.36:172][712]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2021.12.03-16.23.36:172][712]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-16.23.36:172][712]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-16.23.36:172][712]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-16.23.36:173][712]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-16.23.36:173][712]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-16.23.36:174][712]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-16.23.36:174][712]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-16.23.36:174][712]LogInit: FAudioDevice initialized.
+[2021.12.03-16.23.36:174][712]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_Gym'.
+[2021.12.03-16.23.36:182][712]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.12.03-16.23.36:183][712]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2021.12.03-17.23.36
+[2021.12.03-16.23.36:183][712]LogWorld: Bringing up level for play took: 0.000801
+[2021.12.03-16.23.36:183][712]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.12.03-16.23.36:184][712]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.12.03-16.23.36:184][712]PIE: Server logged in
+[2021.12.03-16.23.36:185][712]PIE: Play in editor total start time 0,054 seconds.
+[2021.12.03-16.23.46:511][818]Cmd: SELECT NONE
+[2021.12.03-16.23.47:469][933]Cmd: SELECT NONE
+[2021.12.03-16.23.51:885][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.23.51:885][436]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.23.51:885][436]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.23.51:885][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.23.51:899][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-16.23.51:903][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.23.51:922][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.23.51:922][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.23.51:923][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.23.51:927][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.12.03-16.23.51:951][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.12.03-16.23.51:962][437]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.12.03-16.24.47:687][917]BlueprintLog: New page: Compile BP_PlayerController
+[2021.12.03-16.24.47:722][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.12.03-16.25.16:877][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.12.03-16.25.16:914][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerController" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset" SILENT=true
+[2021.12.03-16.25.16:919][272]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerController1F2CAE0A4064A056F475AFB30C6A4635.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset'
+[2021.12.03-16.25.16:931][272]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.12.03-16.25.16:931][272]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PlayerController.BP_PlayerController
+[2021.12.03-16.25.30:702][911]LogDebuggerCommands: Repeating last play command: Simulate
+[2021.12.03-16.25.30:705][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.03-16.25.30:705][911]PIE: New page: SIE session: Level_Gym (3 déc. 2021 à 18:25:30)
+[2021.12.03-16.25.30:706][911]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.25.30:709][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003213s)
+[2021.12.03-16.25.30:709][911]LogAIModule: Creating AISystem for world Level_Gym
+[2021.12.03-16.25.30:710][911]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2021.12.03-16.25.30:710][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Gym.Level_Gym to /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym (0.004225s)
+[2021.12.03-16.25.30:731][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.12.03-16.25.30:732][911]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.03-16.25.30:732][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-16.25.30:732][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-16.25.30:732][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-16.25.30:732][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-16.25.30:732][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-16.25.30:732][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-16.25.30:732][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-16.25.30:732][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-16.25.30:732][911]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-16.25.30:732][911]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-16.25.30:738][911]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-16.25.30:738][911]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-16.25.30:741][911]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2021.12.03-16.25.30:741][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-16.25.30:741][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-16.25.30:741][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-16.25.30:742][911]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-16.25.30:742][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-16.25.30:742][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-16.25.30:742][911]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-16.25.30:743][911]LogInit: FAudioDevice initialized.
+[2021.12.03-16.25.30:743][911]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_Gym'.
+[2021.12.03-16.25.30:749][911]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.12.03-16.25.30:750][911]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2021.12.03-17.25.30
+[2021.12.03-16.25.30:750][911]LogWorld: Bringing up level for play took: 0.000847
+[2021.12.03-16.25.30:750][911]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.12.03-16.25.30:751][911]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.12.03-16.25.30:751][911]PIE: Server logged in
+[2021.12.03-16.25.30:752][911]PIE: Play in editor total start time 0,047 seconds.
+[2021.12.03-16.25.36:905][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.25.36:905][596]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.25.36:905][596]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.25.36:905][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.25.36:915][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-16.25.36:946][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.25.36:967][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.25.36:967][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.25.36:968][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.25.36:972][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.12.03-16.25.36:994][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.12.03-16.25.37:014][597]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.12.03-16.25.39:869][934]LogTurnkeySupport: Display: Adding device menu item for SUPGR2-C042BPJS
+[2021.12.03-16.25.39:869][934]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Tp_Riou_Quentin.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Intermediate/TurnkeyReport_1.log" -log="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Intermediate/TurnkeyLog_1.log" -project="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Tp_Riou_Quentin.uproject"  -Device=Win64@SUPGR2-C042BPJS'
+[2021.12.03-16.25.39:869][934]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Unreal/UE_5.0EA/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Tp_Riou_Quentin.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Intermediate/TurnkeyReport_1.log" -log="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Intermediate/TurnkeyLog_1.log" -project="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Tp_Riou_Quentin.uproject"  -Device=Win64@SUPGR2-C042BPJS" -nocompile ]
+[2021.12.03-16.25.40:377][989]LogTurnkeySupport: Completed device detection: Code = 0
+[2021.12.03-16.25.40:377][989]LogTurnkeySupport: Turnkey Device: Win64@SUPGR2-C042BPJS: (Name=SUPGR2-C042BPJS, Status=Valid, Installed=10.0.19042.0, MinAllowed=10.0.0.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2021.12.03-16.25.42:733][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.03-16.25.42:733][264]PIE: New page: PIE session: Level_Gym (3 déc. 2021 à 18:25:42)
+[2021.12.03-16.25.42:733][264]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.25.42:736][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002941s)
+[2021.12.03-16.25.42:738][264]LogAIModule: Creating AISystem for world Level_Gym
+[2021.12.03-16.25.42:738][264]LogPlayLevel: PIE: World Init took: (0.001843s)
+[2021.12.03-16.25.42:738][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Gym.Level_Gym to /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym (0.004888s)
+[2021.12.03-16.25.42:760][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.12.03-16.25.42:762][264]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.12.03-16.25.42:762][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-16.25.42:762][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-16.25.42:762][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-16.25.42:762][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-16.25.42:762][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-16.25.42:762][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-16.25.42:762][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-16.25.42:762][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-16.25.42:762][264]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-16.25.42:762][264]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-16.25.42:768][264]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-16.25.42:768][264]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-16.25.42:771][264]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2021.12.03-16.25.42:771][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-16.25.42:771][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-16.25.42:771][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-16.25.42:771][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-16.25.42:771][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-16.25.42:772][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-16.25.42:772][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-16.25.42:772][264]LogInit: FAudioDevice initialized.
+[2021.12.03-16.25.42:772][264]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level_Gym'.
+[2021.12.03-16.25.42:780][264]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.12.03-16.25.42:781][264]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2021.12.03-17.25.42
+[2021.12.03-16.25.42:781][264]LogWorld: Bringing up level for play took: 0.000778
+[2021.12.03-16.25.42:781][264]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.12.03-16.25.42:784][264]PIE: Server logged in
+[2021.12.03-16.25.42:784][264]PIE: Play in editor total start time 0,052 seconds.
+[2021.12.03-16.25.50:156][112]Cmd: SELECT NONE
+[2021.12.03-16.25.51:924][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.25.51:924][319]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.25.51:925][319]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.25.51:925][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.25.51:937][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-16.25.51:969][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.25.51:989][319]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.03-16.25.51:989][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.25.51:990][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.25.51:991][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.25.51:994][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.12.03-16.25.52:017][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.12.03-16.25.52:036][320]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.12.03-16.26.16:337][988]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.03-16.26.16:341][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.03-16.26.16:341][988]PIE: New page: PIE session: Level_Gym (3 déc. 2021 à 18:26:16)
+[2021.12.03-16.26.16:341][988]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.26.16:344][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003139s)
+[2021.12.03-16.26.16:346][988]LogAIModule: Creating AISystem for world Level_Gym
+[2021.12.03-16.26.16:346][988]LogPlayLevel: PIE: World Init took: (0.001893s)
+[2021.12.03-16.26.16:346][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Gym.Level_Gym to /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym (0.005197s)
+[2021.12.03-16.26.16:369][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.12.03-16.26.16:370][988]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.12.03-16.26.16:371][988]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-16.26.16:371][988]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-16.26.16:371][988]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-16.26.16:371][988]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-16.26.16:371][988]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-16.26.16:371][988]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-16.26.16:371][988]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-16.26.16:371][988]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-16.26.16:371][988]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-16.26.16:371][988]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-16.26.16:376][988]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-16.26.16:376][988]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-16.26.16:379][988]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2021.12.03-16.26.16:379][988]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-16.26.16:379][988]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-16.26.16:380][988]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-16.26.16:380][988]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-16.26.16:380][988]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-16.26.16:380][988]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-16.26.16:380][988]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-16.26.16:380][988]LogInit: FAudioDevice initialized.
+[2021.12.03-16.26.16:380][988]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_Gym'.
+[2021.12.03-16.26.16:387][988]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.12.03-16.26.16:388][988]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2021.12.03-17.26.16
+[2021.12.03-16.26.16:388][988]LogWorld: Bringing up level for play took: 0.001049
+[2021.12.03-16.26.16:388][988]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.12.03-16.26.16:390][988]PIE: Server logged in
+[2021.12.03-16.26.16:391][988]PIE: Play in editor total start time 0,051 seconds.
+[2021.12.03-16.26.19:135][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.26.19:135][296]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.26.19:135][296]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.26.19:135][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.26.19:148][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-16.26.19:180][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.26.19:200][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.26.19:200][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.26.19:201][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.26.19:205][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.12.03-16.26.19:229][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.12.03-16.26.19:248][297]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.12.03-16.26.24:135][817]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.12.03-16.26.31:229][624]LogSlate: Window 'Project Settings' being destroyed
+[2021.12.03-16.26.31:232][624]LogSlate: Window 'Project Settings' being destroyed
+[2021.12.03-16.26.35:147][ 72]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Core/BP_Gamemode.BP_Gamemode
+[2021.12.03-16.26.40:992][712]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.03-16.26.48:911][595]BlueprintLog: New page: Compile BP_Gamemode
+[2021.12.03-16.26.48:952][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.12.03-16.26.49:364][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/BP_Gamemode" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/BP_Gamemode.uasset" SILENT=true
+[2021.12.03-16.26.49:366][636]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Gamemode21212F1F40035128847F0E9E6BED623F.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/BP_Gamemode.uasset'
+[2021.12.03-16.26.49:375][636]AssetCheck: New page: Asset Save: BP_Gamemode
+[2021.12.03-16.26.49:375][636]LogContentValidation: Display: Validating Blueprint /Game/_Core/BP_Gamemode.BP_Gamemode
+[2021.12.03-16.26.50:605][774]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.26.50:605][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.26.55:093][279]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.03-16.26.55:096][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.03-16.26.55:096][279]PIE: New page: PIE session: Level_Gym (3 déc. 2021 à 18:26:55)
+[2021.12.03-16.26.55:096][279]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.26.55:099][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003001s)
+[2021.12.03-16.26.55:101][279]LogAIModule: Creating AISystem for world Level_Gym
+[2021.12.03-16.26.55:101][279]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2021.12.03-16.26.55:101][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Gym.Level_Gym to /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym (0.004558s)
+[2021.12.03-16.26.55:125][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.12.03-16.26.55:127][279]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.12.03-16.26.55:127][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-16.26.55:127][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-16.26.55:127][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-16.26.55:127][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-16.26.55:127][279]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-16.26.55:127][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-16.26.55:127][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-16.26.55:127][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-16.26.55:128][279]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-16.26.55:128][279]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-16.26.55:133][279]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-16.26.55:133][279]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-16.26.55:136][279]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2021.12.03-16.26.55:136][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-16.26.55:136][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-16.26.55:136][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-16.26.55:137][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-16.26.55:137][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-16.26.55:137][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-16.26.55:137][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-16.26.55:137][279]LogInit: FAudioDevice initialized.
+[2021.12.03-16.26.55:137][279]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_Gym'.
+[2021.12.03-16.26.55:148][279]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.12.03-16.26.55:149][279]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2021.12.03-17.26.55
+[2021.12.03-16.26.55:149][279]LogWorld: Bringing up level for play took: 0.000790
+[2021.12.03-16.26.55:149][279]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.12.03-16.26.55:150][279]PIE: Server logged in
+[2021.12.03-16.26.55:151][279]PIE: Play in editor total start time 0,055 seconds.
+[2021.12.03-16.27.04:125][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.27.04:125][319]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.27.04:125][319]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.27.04:125][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.27.04:136][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-16.27.04:167][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.27.04:189][319]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.03-16.27.04:189][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.27.04:190][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.27.04:191][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.27.04:194][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.12.03-16.27.04:217][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.12.03-16.27.04:237][320]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.12.03-16.27.06:764][605]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Core/BP_Gamemode.BP_Gamemode
+[2021.12.03-16.27.12:143][189]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.03-16.27.14:120][410]BlueprintLog: New page: Compile BP_Gamemode
+[2021.12.03-16.27.14:159][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.12.03-16.27.14:632][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/BP_Gamemode" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/BP_Gamemode.uasset" SILENT=true
+[2021.12.03-16.27.14:634][457]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Gamemode2AD709254E9E711ACBA780A6CE736EF3.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/BP_Gamemode.uasset'
+[2021.12.03-16.27.14:644][457]AssetCheck: New page: Asset Save: BP_Gamemode
+[2021.12.03-16.27.14:644][457]LogContentValidation: Display: Validating Blueprint /Game/_Core/BP_Gamemode.BP_Gamemode
+[2021.12.03-16.27.15:615][561]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.27.15:615][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.27.16:781][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerController" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset" SILENT=true
+[2021.12.03-16.27.16:787][675]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerControllerEB5A059846DAD53A50073DAC876D0FC0.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset'
+[2021.12.03-16.27.16:797][675]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.12.03-16.27.16:797][675]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PlayerController.BP_PlayerController
+[2021.12.03-16.27.19:385][961]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.03-16.27.19:388][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.03-16.27.19:388][961]PIE: New page: PIE session: Level_Gym (3 déc. 2021 à 18:27:19)
+[2021.12.03-16.27.19:389][961]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.27.19:391][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002941s)
+[2021.12.03-16.27.19:393][961]LogAIModule: Creating AISystem for world Level_Gym
+[2021.12.03-16.27.19:393][961]LogPlayLevel: PIE: World Init took: (0.001782s)
+[2021.12.03-16.27.19:393][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Gym.Level_Gym to /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym (0.004862s)
+[2021.12.03-16.27.19:418][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.12.03-16.27.19:420][961]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.12.03-16.27.19:420][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-16.27.19:420][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-16.27.19:420][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-16.27.19:420][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-16.27.19:420][961]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-16.27.19:420][961]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-16.27.19:420][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-16.27.19:420][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-16.27.19:420][961]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-16.27.19:420][961]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-16.27.19:425][961]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-16.27.19:425][961]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-16.27.19:429][961]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2021.12.03-16.27.19:429][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-16.27.19:429][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-16.27.19:429][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-16.27.19:429][961]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-16.27.19:429][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-16.27.19:430][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-16.27.19:430][961]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-16.27.19:430][961]LogInit: FAudioDevice initialized.
+[2021.12.03-16.27.19:430][961]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level_Gym'.
+[2021.12.03-16.27.19:437][961]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.12.03-16.27.19:438][961]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2021.12.03-17.27.19
+[2021.12.03-16.27.19:438][961]LogWorld: Bringing up level for play took: 0.000777
+[2021.12.03-16.27.19:438][961]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.12.03-16.27.19:440][961]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetState', from offset 21
+[2021.12.03-16.27.19:440][961]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Player/BP_PlayerController.BP_PlayerController_C:ReceiveBeginPlay
+	Function /Game/Player/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController
+	Function /Game/Player/BP_PlayerController.BP_PlayerController_C:InitController
+
+[2021.12.03-16.27.23:128][961]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Idle
+[2021.12.03-16.27.23:128][961]PIE: Server logged in
+[2021.12.03-16.27.23:129][961]PIE: Play in editor total start time 3,742 seconds.
+[2021.12.03-16.27.35:575][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.27.35:575][364]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.27.35:575][364]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.27.35:575][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.27.35:588][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-16.27.35:619][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.27.35:642][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.03-16.27.35:642][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.27.35:642][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.27.35:645][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.27.35:648][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.12.03-16.27.35:673][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.12.03-16.27.35:692][365]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.12.03-16.29.40:297][235]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.12.03-16.29.43:020][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.12.03-16.29.44:829][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.12.03-16.32.16:790][480]Cmd: TRANSACTION UNDO
+[2021.12.03-16.32.16:790][480]LogEditorTransaction: Undo Add Child
+[2021.12.03-16.34.28:877][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.12.03-16.34.40:659][921]LogSlate: Window 'Project Settings' being destroyed
+[2021.12.03-16.34.40:663][921]LogSlate: Window 'Project Settings' being destroyed
+[2021.12.03-16.36.56:055][355]LogSlate: Took 0.006623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.12.03-16.37.47:143][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.12.03-16.37.47:154][705]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Level_Gym_Auto56B237AB5488F57C14B8EA380C645C970.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Autosaves/Game/Levels/Level_Gym_Auto5.umap'
+[2021.12.03-16.37.47:155][705]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Gym' took 0.070
+[2021.12.03-16.37.47:155][705]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2021.12.03-16.37.47:155][705]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/BP_Player] ([1] browsable assets)...
+[2021.12.03-16.37.47:166][705]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/BP_Player.BP_Player]
+[2021.12.03-16.37.47:166][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_Player]
+[2021.12.03-16.37.47:174][705]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Player_Auto54576008B42380AC59E664292C1B42F7C.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Autosaves/Game/Player/BP_Player_Auto5.uasset'
+[2021.12.03-16.37.47:175][705]LogFileHelpers: Auto-saving content packages took 0.020
+[2021.12.03-16.38.55:781][535]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/__StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2021.12.03-16.38.55:785][535]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 3 classes and 0 folders.
+[2021.12.03-16.38.55:788][535]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 2867579EA94986D3E571E1F09C58EE1D19CDF382), compiling. 
+[2021.12.03-16.38.55:873][535]LogTexture: Display: Waiting for textures to be ready 0/1 (EpicQuadPanorama_CC+EV1) ...
+[2021.12.03-16.38.55:964][535]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: C84D7AD812FE054750DA4E9D91DF608367DAA4DB), compiling. 
+[2021.12.03-16.38.55:967][535]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 93855F2B193557FC33264AAB9CFD828937FEE38F), compiling. 
+[2021.12.03-16.38.56:192][535]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.03-16.38.56:192][535]MaterialEditorStats: 
+[2021.12.03-16.38.56:192][535]MaterialEditorStats: Shader Count: 0
+[2021.12.03-16.38.57:420][592]LogMeshUtilities: Finished distance field build in 1.2s - 203x203x21 sparse distance field, 1.2Mb total, 0.0Mb always loaded, 75% occupied, 3 triangles, Floor_Mesh
+[2021.12.03-16.38.58:215][652]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.03-16.38.58:215][652]LogShaderCompilers: Display: Total job queries 30, among them cache hits 0 (0.00%)
+[2021.12.03-16.38.58:215][652]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2021.12.03-16.38.58:215][652]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2021.12.03-16.38.58:215][652]LogShaderCompilers: Display: ================================================
+[2021.12.03-16.38.58:383][663]MaterialEditorStats: Texture samplers: 2/16
+[2021.12.03-16.38.58:383][663]MaterialEditorStats: 
+[2021.12.03-16.38.58:383][663]MaterialEditorStats: Shader Count: 2
+[2021.12.03-16.38.59:266][720]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.38.59:266][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.40.32:596][618]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-16.40.32:707][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.12.03-16.40.34:517][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset" SILENT=true
+[2021.12.03-16.40.34:527][754]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Player97AC6B0A439C2416A6DABEBE63AA3688.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset'
+[2021.12.03-16.40.34:538][754]AssetCheck: New page: Asset Save: BP_Player
+[2021.12.03-16.40.34:538][754]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2021.12.03-16.43.38:530][272]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-16.43.38:598][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.12.03-16.45.44:707][553]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-16.45.44:751][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.12.03-16.45.45:736][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset" SILENT=true
+[2021.12.03-16.45.45:746][628]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerC4344BAE4B8DEE23DF824AA6D3BFE335.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset'
+[2021.12.03-16.45.45:756][628]AssetCheck: New page: Asset Save: BP_Player
+[2021.12.03-16.45.45:756][628]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2021.12.03-16.47.48:363][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.12.03-16.47.48:375][375]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Level_Gym_Auto68B05CD8E4DF8A2E1253970AEE8EE6360.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Autosaves/Game/Levels/Level_Gym_Auto6.umap'
+[2021.12.03-16.47.48:376][375]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Gym' took 0.038
+[2021.12.03-16.47.48:376][375]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2021.12.03-16.47.48:376][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/BP_Player] ([1] browsable assets)...
+[2021.12.03-16.47.48:386][375]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/BP_Player.BP_Player]
+[2021.12.03-16.47.48:386][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_Player]
+[2021.12.03-16.47.48:395][375]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Player_Auto6EDC8061C46F744566A336E8B65F08EAE.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Autosaves/Game/Player/BP_Player_Auto6.uasset'
+[2021.12.03-16.47.48:396][375]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.12.03-16.48.10:437][862]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-16.48.10:478][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.12.03-16.48.20:554][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset" SILENT=true
+[2021.12.03-16.48.20:564][969]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Player2FD6A5B64D5F2EDB09B1F9BEA4A72DA1.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset'
+[2021.12.03-16.48.20:575][969]AssetCheck: New page: Asset Save: BP_Player
+[2021.12.03-16.48.20:575][969]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2021.12.03-16.50.40:744][716]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-16.50.40:792][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.12.03-16.52.02:245][975]BlueprintLog: New page: Compile BP_PlayerController
+[2021.12.03-16.52.02:281][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.12.03-16.52.03:170][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerController" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset" SILENT=true
+[2021.12.03-16.52.03:176][ 40]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerController4F0D748A43BE7DB5AF3715A7A6B73854.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset'
+[2021.12.03-16.52.03:186][ 40]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.12.03-16.52.03:186][ 40]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PlayerController.BP_PlayerController
+[2021.12.03-16.52.40:193][202]BlueprintLog: New page: Compile BP_PlayerController
+[2021.12.03-16.52.40:231][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.12.03-16.52.41:120][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerController" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset" SILENT=true
+[2021.12.03-16.52.41:127][291]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerController0C2393674F289F36FEFE81813F46276D.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset'
+[2021.12.03-16.52.41:138][291]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.12.03-16.52.41:138][291]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PlayerController.BP_PlayerController
+[2021.12.03-16.52.42:477][442]BlueprintLog: New page: Compile BP_Player
+[2021.12.03-16.52.42:519][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.12.03-16.52.52:781][627]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.03-16.52.52:785][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.03-16.52.52:785][627]PIE: New page: PIE session: Level_Gym (3 déc. 2021 à 18:52:52)
+[2021.12.03-16.52.52:785][627]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.52.52:788][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003388s)
+[2021.12.03-16.52.52:790][627]LogAIModule: Creating AISystem for world Level_Gym
+[2021.12.03-16.52.52:790][627]LogPlayLevel: PIE: World Init took: (0.001811s)
+[2021.12.03-16.52.52:790][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Gym.Level_Gym to /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym (0.005311s)
+[2021.12.03-16.52.52:813][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.12.03-16.52.52:815][627]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.12.03-16.52.52:815][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-16.52.52:815][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-16.52.52:815][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-16.52.52:815][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-16.52.52:815][627]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-16.52.52:815][627]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-16.52.52:815][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-16.52.52:815][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-16.52.52:816][627]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-16.52.52:816][627]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-16.52.52:821][627]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-16.52.52:821][627]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-16.52.52:825][627]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2021.12.03-16.52.52:825][627]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-16.52.52:825][627]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-16.52.52:825][627]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-16.52.52:826][627]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-16.52.52:826][627]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-16.52.52:827][627]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-16.52.52:827][627]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-16.52.52:827][627]LogInit: FAudioDevice initialized.
+[2021.12.03-16.52.52:827][627]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_Gym'.
+[2021.12.03-16.52.52:832][627]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.12.03-16.52.52:833][627]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2021.12.03-17.52.52
+[2021.12.03-16.52.52:833][627]LogWorld: Bringing up level for play took: 0.000869
+[2021.12.03-16.52.52:833][627]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.12.03-16.52.52:835][627]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Idle
+[2021.12.03-16.52.52:835][627]PIE: Server logged in
+[2021.12.03-16.52.52:835][627]PIE: Play in editor total start time 0,052 seconds.
+[2021.12.03-16.53.33:446][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.53.33:446][457]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.53.33:446][457]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.53.33:446][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.53.33:460][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-16.53.33:468][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.53.33:488][457]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.03-16.53.33:489][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.53.33:490][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.53.33:491][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.53.33:494][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.12.03-16.53.33:518][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.12.03-16.53.33:533][458]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.12.03-16.53.44:683][572]BlueprintLog: New page: Compile BP_PlayerController
+[2021.12.03-16.53.44:719][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.12.03-16.53.53:315][283]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.03-16.53.53:318][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.03-16.53.53:318][283]PIE: New page: PIE session: Level_Gym (3 déc. 2021 à 18:53:53)
+[2021.12.03-16.53.53:318][283]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.53.53:321][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003043s)
+[2021.12.03-16.53.53:322][283]LogAIModule: Creating AISystem for world Level_Gym
+[2021.12.03-16.53.53:322][283]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2021.12.03-16.53.53:323][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Gym.Level_Gym to /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym (0.004099s)
+[2021.12.03-16.53.53:346][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.12.03-16.53.53:347][283]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.12.03-16.53.53:347][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-16.53.53:347][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-16.53.53:347][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-16.53.53:347][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-16.53.53:347][283]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-16.53.53:348][283]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-16.53.53:348][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-16.53.53:348][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-16.53.53:348][283]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-16.53.53:348][283]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-16.53.53:353][283]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-16.53.53:353][283]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-16.53.53:356][283]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2021.12.03-16.53.53:357][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-16.53.53:357][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-16.53.53:357][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-16.53.53:357][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-16.53.53:357][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-16.53.53:358][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-16.53.53:358][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-16.53.53:358][283]LogInit: FAudioDevice initialized.
+[2021.12.03-16.53.53:358][283]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_Gym'.
+[2021.12.03-16.53.53:363][283]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.12.03-16.53.53:363][283]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2021.12.03-17.53.53
+[2021.12.03-16.53.53:364][283]LogWorld: Bringing up level for play took: 0.000852
+[2021.12.03-16.53.53:364][283]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.12.03-16.53.53:365][283]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Idle
+[2021.12.03-16.53.53:365][283]PIE: Server logged in
+[2021.12.03-16.53.53:366][283]PIE: Play in editor total start time 0,048 seconds.
+[2021.12.03-16.54.56:336][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.54.56:336][814]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.54.56:336][814]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.54.56:336][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.54.56:347][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-16.54.56:356][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.54.56:377][814]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.03-16.54.56:377][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.54.56:378][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.54.56:380][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.54.56:383][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.12.03-16.54.56:406][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.12.03-16.54.56:421][815]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.12.03-16.57.28:599][468]BlueprintLog: New page: Compile BP_PlayerController
+[2021.12.03-16.57.28:638][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.12.03-16.57.34:357][108]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.03-16.57.34:361][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.03-16.57.34:361][108]PIE: New page: PIE session: Level_Gym (3 déc. 2021 à 18:57:34)
+[2021.12.03-16.57.34:361][108]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.57.34:365][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003483s)
+[2021.12.03-16.57.34:365][108]LogAIModule: Creating AISystem for world Level_Gym
+[2021.12.03-16.57.34:366][108]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2021.12.03-16.57.34:366][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Gym.Level_Gym to /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym (0.004566s)
+[2021.12.03-16.57.34:390][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.12.03-16.57.34:391][108]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.12.03-16.57.34:391][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-16.57.34:391][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-16.57.34:391][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-16.57.34:391][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-16.57.34:392][108]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-16.57.34:392][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-16.57.34:392][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-16.57.34:392][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-16.57.34:392][108]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-16.57.34:392][108]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-16.57.34:397][108]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-16.57.34:397][108]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-16.57.34:401][108]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2021.12.03-16.57.34:401][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-16.57.34:401][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-16.57.34:401][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-16.57.34:402][108]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-16.57.34:402][108]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-16.57.34:402][108]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-16.57.34:402][108]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-16.57.34:402][108]LogInit: FAudioDevice initialized.
+[2021.12.03-16.57.34:402][108]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_Gym'.
+[2021.12.03-16.57.34:409][108]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.12.03-16.57.34:410][108]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2021.12.03-17.57.34
+[2021.12.03-16.57.34:410][108]LogWorld: Bringing up level for play took: 0.000889
+[2021.12.03-16.57.34:410][108]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.12.03-16.57.34:411][108]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Idle
+[2021.12.03-16.57.34:411][108]PIE: Server logged in
+[2021.12.03-16.57.34:412][108]PIE: Play in editor total start time 0,052 seconds.
+[2021.12.03-16.57.37:424][463]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.37:623][487]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.37:782][506]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.38:049][538]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.38:190][555]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.38:341][573]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.38:499][592]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.38:682][614]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.38:824][631]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.38:974][649]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.39:124][667]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.39:265][684]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.39:432][704]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.39:565][720]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.39:690][735]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.39:824][751]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.39:966][768]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.40:074][781]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.40:416][822]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.40:524][835]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.40:624][847]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.40:707][857]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.40:799][868]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.40:990][891]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.41:208][917]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.41:307][929]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.41:432][944]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.42:315][ 50]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.42:466][ 68]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.42:608][ 85]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.42:740][101]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.42:882][118]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.43:033][136]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.43:174][153]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.43:307][169]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.43:457][187]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.43:590][203]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.43:732][220]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.43:882][238]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.44:032][256]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.44:174][273]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.44:315][290]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.44:474][309]LogBlueprintUserMessages: [BP_Player_C_3] [Player] NewState=Jumping
+[2021.12.03-16.57.47:155][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.57.47:155][626]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Gym
+[2021.12.03-16.57.47:155][626]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.57.47:155][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.57.47:165][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-16.57.47:173][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.57.47:195][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.03-16.57.47:196][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.57.47:196][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-16.57.47:198][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-16.57.47:201][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.12.03-16.57.47:224][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.12.03-16.57.47:244][627]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.12.03-16.57.52:561][261]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.03-16.57.53:127][317]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.03-16.57.53:540][358]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.03-16.57.53:723][380]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.03-16.57.54:950][518]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.03-16.57.55:167][539]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.03-16.57.56:137][642]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.03-16.58.04:802][681]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.03-16.58.05:202][729]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.03-16.58.06:928][909]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.03-16.58.34:555][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.12.03-16.58.34:609][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.12.03-16.58.34:619][123]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Level_GymEA63CA4A47B139CDD54154913C3158D8.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Level_Gym.umap'
+[2021.12.03-16.58.34:627][123]LogFileHelpers: Saving map 'Level_Gym' took 0.040
+[2021.12.03-16.58.34:637][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset" SILENT=true
+[2021.12.03-16.58.34:648][123]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Player597ED5054167A0E1C98E73BC52AABC4E.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset'
+[2021.12.03-16.58.34:649][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerController" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset" SILENT=true
+[2021.12.03-16.58.34:656][123]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerControllerF2D129F04D636484343789A4119313C7.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset'
+[2021.12.03-16.58.34:667][123]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.03-16.58.34:667][123]LogContentValidation: Display: Validating World /Game/Levels/Level_Gym.Level_Gym
+[2021.12.03-16.58.34:667][123]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2021.12.03-16.58.34:667][123]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PlayerController.BP_PlayerController
+[2021.12.03-16.58.36:551][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.12.03-16.59.34:877][ 11]BlueprintLog: New page: Compile BP_PlayerController
+[2021.12.03-16.59.34:914][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.12.03-16.59.35:470][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerController" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset" SILENT=true
+[2021.12.03-16.59.35:476][ 52]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerController6B5B972544001E496398AFBC7EEB8849.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_PlayerController.uasset'
+[2021.12.03-16.59.35:487][ 52]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.12.03-16.59.35:487][ 52]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PlayerController.BP_PlayerController
+[2021.12.03-16.59.36:877][164]LogSlate: Window 'BP_PlayerController' being destroyed
+[2021.12.03-16.59.36:896][164]LogSlate: Window 'BP_PlayerController' being destroyed
+[2021.12.03-16.59.36:925][164]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.03-16.59.36:925][164]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.59.36:925][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-16.59.36:963][164]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.03-16.59.36:963][164]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-16.59.36:963][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
