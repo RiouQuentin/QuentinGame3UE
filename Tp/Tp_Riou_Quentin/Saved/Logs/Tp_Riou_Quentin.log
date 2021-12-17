@@ -2096,3 +2096,7 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.12.17-15.38.05:817][203]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.17-15.38.05:817][203]LogContentValidation: Display: Validating World /Game/Levels/Level_Gym.Level_Gym
 [2021.12.17-15.38.05:817][203]LogContentValidation: Display: Validating Blueprint /Game/LDIs/Triggers/BP_HealthZone.BP_HealthZone
+[2021.12.17-15.48.06:073][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.12.17-15.48.06:085][117]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Level_Gym_Auto54F4565424B228B4752DF6B91677DA580.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Autosaves/Game/Levels/Level_Gym_Auto5.umap'
+[2021.12.17-15.48.06:085][117]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Gym' took 0.051
+[2021.12.17-15.48.06:085][117]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
