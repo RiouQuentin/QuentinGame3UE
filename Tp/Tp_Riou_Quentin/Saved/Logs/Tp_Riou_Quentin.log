@@ -1176,3 +1176,848 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.02.04-15.25.48:754][197]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager12F79BD842B7B8F49B2CE59DCEBC2C59.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
 [2022.02.04-15.25.48:766][197]AssetCheck: New page: Asset Save: Bp_GameFlowManager
 [2022.02.04-15.25.48:766][197]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-15.43.31:074][763]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-15.43.31:119][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.02.04-15.43.36:381][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-15.43.36:394][315]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager75D24C6846E548B1AFD54A83184382FD.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-15.43.36:405][315]AssetCheck: New page: Asset Save: Bp_GameFlowManager
+[2022.02.04-15.43.36:406][315]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-15.43.43:680][100]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2022.02.04-15.43.44:011][101]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/CharacterMovementComponent_16.svg'. File could not be found
+[2022.02.04-15.44.45:854][382]BlueprintLog: New page: Compile BP_Player
+[2022.02.04-15.44.45:920][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.02.04-15.44.51:800][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.02.04-15.44.51:858][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset" SILENT=true
+[2022.02.04-15.44.51:898][ 40]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerDEE7851F421E955CAE561BA47EA37008.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset'
+[2022.02.04-15.44.51:909][ 40]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.04-15.44.51:909][ 40]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2022.02.04-15.46.03:035][195]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-15.46.03:082][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.04-15.46.04:849][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.02.04-15.46.04:898][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-15.46.04:911][374]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManagerD7FB8DD144E1CC667D2A0F8FD17548FA.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-15.46.04:923][374]AssetCheck: New page: Asset Save: Bp_GameFlowManager
+[2022.02.04-15.46.04:923][374]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-15.50.54:698][ 70]BlueprintLog: New page: Compile BP_Player
+[2022.02.04-15.50.54:765][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.02.04-15.50.56:354][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.02.04-15.50.56:426][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset" SILENT=true
+[2022.02.04-15.50.56:467][243]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_PlayerCDBBE7D14EBA97E37A5D3FAF77E8176B.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset'
+[2022.02.04-15.50.56:479][243]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.04-15.50.56:479][243]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2022.02.04-15.51.30:770][314]BlueprintLog: New page: Compile BP_Player
+[2022.02.04-15.51.30:835][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.02.04-15.51.33:733][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.02.04-15.51.33:791][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset" SILENT=true
+[2022.02.04-15.51.33:832][643]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Player026170824B66F376BAA142877F7CFDA1.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset'
+[2022.02.04-15.51.33:843][643]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.04-15.51.33:843][643]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2022.02.04-15.56.40:343][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.02.04-15.56.40:400][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-15.56.40:417][213]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManagerE1F7814F4BC21D67AECCEA97F054A2D2.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-15.56.40:429][213]AssetCheck: New page: Asset Save: Bp_GameFlowManager
+[2022.02.04-15.56.40:429][213]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-15.56.42:512][426]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-15.56.42:560][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.02.04-15.56.43:910][557]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.02.04-15.57.24:502][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.04-15.57.24:551][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-15.57.24:568][144]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager152AB2FC4F8BDC9519464CB73019EF25.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-15.57.24:580][144]AssetCheck: New page: Asset Save: Bp_GameFlowManager
+[2022.02.04-15.57.24:580][144]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.02.41:114][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.02.04-16.05.20:600][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.02.04-16.05.20:653][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.05.20:672][ 42]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager577475504526634B27E2AD9E0BB478A7.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.05.20:686][ 42]AssetCheck: New page: Asset Save: Bp_GameFlowManager
+[2022.02.04-16.05.20:686][ 42]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.05.21:612][124]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.05.21:659][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.02.04-16.05.29:513][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.02.04-16.05.29:577][920]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.05.29:577][920]Cmd: MAP LOAD FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.04-16.05.29:577][920]LightingResults: New page: Lighting Build
+[2022.02.04-16.05.29:580][920]LoadErrors: New page: Loading map: Bootstrap.umap
+[2022.02.04-16.05.29:608][920]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.05.29:608][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.05.29:609][920]MapCheck: New page: Map Check
+[2022.02.04-16.05.29:609][920]LightingResults: New page: Lighting Build
+[2022.02.04-16.05.29:635][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.04-16.05.29:641][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.02.04-16.05.29:642][920]LogAudio: Display: Audio Device (ID: 1) registered with world 'Bootstrap'.
+[2022.02.04-16.05.29:647][920]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.04-16.05.29:647][920]LogAIModule: Creating AISystem for world Bootstrap
+[2022.02.04-16.05.29:675][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.04-16.05.29:684][920]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.04-16.05.29:684][920]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,075ms to complete.
+[2022.02.04-16.05.29:684][920]LogFileHelpers: Loading map 'Bootstrap' took 0.107
+[2022.02.04-16.05.55:936][975]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.04-16.06.05:094][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.02.04-16.06.05:178][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.04-16.06.05:181][ 35]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BootstrapA6979F4A4B74401CD82B76BD5D04599D.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.06.05:189][ 35]LogFileHelpers: Saving map 'Bootstrap' took 0.037
+[2022.02.04-16.06.05:199][ 35]AssetCheck: New page: Asset Save: Bootstrap
+[2022.02.04-16.06.05:199][ 35]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.07.13:383][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.04-16.07.13:435][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.07.13:467][644]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager14869E56470BD79364BE3B80A4D949D9.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.07.13:478][644]AssetCheck: New page: Asset Save: Bp_GameFlowManager
+[2022.02.04-16.07.13:478][644]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.07.14:370][727]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.07.14:423][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.02.04-16.08.42:102][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.02.04-16.08.42:180][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.04-16.08.42:183][655]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bootstrap58C83720444DAA3FBDE3AFAED3C15232.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.08.42:191][655]LogFileHelpers: Saving map 'Bootstrap' took 0.036
+[2022.02.04-16.08.42:202][655]AssetCheck: New page: Asset Save: Bootstrap
+[2022.02.04-16.08.42:202][655]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.09.51:296][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.02.04-16.09.51:354][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.09.51:375][577]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager047EB01D4C62F3506A4DC28E09B1602A.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.09.51:386][577]AssetCheck: New page: Asset Save: Bp_GameFlowManager
+[2022.02.04-16.09.51:386][577]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.09.53:353][787]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.09.53:407][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.02.04-16.09.57:068][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.02.04-16.09.57:146][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.04-16.09.57:149][184]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bootstrap5B8666A14420B0B7941A20BF88823F6B.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.09.57:157][184]LogFileHelpers: Saving map 'Bootstrap' took 0.037
+[2022.02.04-16.09.57:157][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.09.57:177][184]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager6860AD7D4F8E5B15686FDB99AFB3203D.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.09.57:188][184]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.09.57:188][184]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.09.57:189][184]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.12.02:884][548]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.12.02:938][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.02.04-16.12.03:840][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.02.04-16.12.03:913][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.04-16.12.03:916][632]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bootstrap186432674DEC050850F0D58B4858B199.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.12.03:924][632]LogFileHelpers: Saving map 'Bootstrap' took 0.037
+[2022.02.04-16.12.03:924][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.12.03:945][632]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager360175F04AE90F9D856676BDE7AFDF2A.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.12.03:957][632]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.12.03:957][632]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.12.03:957][632]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.17.46:791][405]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.17.46:845][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.02.04-16.18.12:284][316]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/GameStateBase_16.svg'. File could not be found
+[2022.02.04-16.18.34:306][898]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.18.34:362][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.02.04-16.18.38:349][343]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.04-16.21.36:457][ 86]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.21.36:462][ 86]LogBlueprint: Error: [AssetLog] E:\ProjetGame3QuentinRiou\Git\GitHub\Ue\QuentinGame3UE\Tp\Tp_Riou_Quentin\Content\_Core\Bp_GameFlowManager.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_PlayerController  to imply a specific type.
+[2022.02.04-16.21.36:463][ 86]LogBlueprint: Error: [AssetLog] E:\ProjetGame3QuentinRiou\Git\GitHub\Ue\QuentinGame3UE\Tp\Tp_Riou_Quentin\Content\_Core\Bp_GameFlowManager.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.02.04-16.21.36:517][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.02.04-16.21.39:022][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.02.04-16.21.39:098][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.04-16.21.39:101][328]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BootstrapF1BD72B04025EB2961BCFD801E9418C5.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.21.39:109][328]LogFileHelpers: Saving map 'Bootstrap' took 0.037
+[2022.02.04-16.21.39:109][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.21.39:133][328]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManagerBF65E6D34CA0E54222F16B839ACF465D.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.21.39:145][328]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.21.39:145][328]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.21.39:145][328]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.27.18:384][ 59]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.04-16.30.08:356][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.04-16.30.08:391][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.30.08:419][972]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager20473ADA445898B341C429BFBFF67781.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.30.08:433][972]AssetCheck: New page: Asset Save: Bp_GameFlowManager
+[2022.02.04-16.30.08:433][972]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.30.09:424][ 68]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.30.09:430][ 68]LogBlueprint: Error: [AssetLog] E:\ProjetGame3QuentinRiou\Git\GitHub\Ue\QuentinGame3UE\Tp\Tp_Riou_Quentin\Content\_Core\Bp_GameFlowManager.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_PlayerController  to imply a specific type.
+[2022.02.04-16.30.09:431][ 68]LogBlueprint: Error: [AssetLog] E:\ProjetGame3QuentinRiou\Git\GitHub\Ue\QuentinGame3UE\Tp\Tp_Riou_Quentin\Content\_Core\Bp_GameFlowManager.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.02.04-16.30.09:482][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.02.04-16.30.24:018][582]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.30.24:024][582]LogBlueprint: Error: [AssetLog] E:\ProjetGame3QuentinRiou\Git\GitHub\Ue\QuentinGame3UE\Tp\Tp_Riou_Quentin\Content\_Core\Bp_GameFlowManager.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_PlayerController  to imply a specific type.
+[2022.02.04-16.30.24:024][582]LogBlueprint: Error: [AssetLog] E:\ProjetGame3QuentinRiou\Git\GitHub\Ue\QuentinGame3UE\Tp\Tp_Riou_Quentin\Content\_Core\Bp_GameFlowManager.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.02.04-16.30.24:078][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.02.04-16.30.25:710][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.02.04-16.30.25:784][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.04-16.30.25:787][749]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BootstrapD2FAE36E4951518970C159A9DB628AB5.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.30.25:795][749]LogFileHelpers: Saving map 'Bootstrap' took 0.037
+[2022.02.04-16.30.25:796][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.30.25:822][749]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager25544D924EF76C489BF85C961E316619.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.30.25:834][749]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.30.25:834][749]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.30.25:834][749]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.30.37:556][ 42]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.30.37:611][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.02.04-16.30.46:782][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.02.04-16.30.46:868][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.04-16.30.46:871][ 43]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BootstrapBBD79E9645332116EAAED4BB2188BFE9.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.30.46:880][ 43]LogFileHelpers: Saving map 'Bootstrap' took 0.038
+[2022.02.04-16.30.46:881][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.30.46:907][ 43]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManagerC98AA22349B26729D591C7AF98E6F99A.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.30.46:918][ 43]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.30.46:918][ 43]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.30.46:918][ 43]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.36.27:188][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.02.04-16.36.27:244][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.36.27:272][415]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManagerF7829106461239B03A9FBE8BAADE1365.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.36.27:284][415]AssetCheck: New page: Asset Save: Bp_GameFlowManager
+[2022.02.04-16.36.27:284][415]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.36.28:382][522]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.36.28:439][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.02.04-16.36.41:980][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.02.04-16.36.42:054][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.04-16.36.42:058][939]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BootstrapF6763FB440E5E5E1D4F44FBB2F5BC678.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.36.42:066][939]LogFileHelpers: Saving map 'Bootstrap' took 0.037
+[2022.02.04-16.36.42:076][939]AssetCheck: New page: Asset Save: Bootstrap
+[2022.02.04-16.36.42:076][939]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.38.27:086][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.02.04-16.38.27:171][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.04-16.38.27:174][786]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BootstrapC836D2EF4CA470EF2E04D39613262E5C.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.38.27:182][786]LogFileHelpers: Saving map 'Bootstrap' took 0.037
+[2022.02.04-16.38.27:182][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.38.27:213][786]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManagerB91E5D8A40C6AFCE4208ABB13CD85213.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.38.27:226][786]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.38.27:226][786]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.38.27:226][786]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.38.28:126][865]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.38.28:185][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.02.04-16.39.34:356][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.02.04-16.39.34:437][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.04-16.39.34:440][207]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bootstrap7D5CBA484B160223EC301C86482BDC93.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.39.34:448][207]LogFileHelpers: Saving map 'Bootstrap' took 0.037
+[2022.02.04-16.39.34:449][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.39.34:479][207]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager6379CC8B47B939196DA1F48DBD899FD8.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.39.34:492][207]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.39.34:493][207]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.39.34:493][207]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.39.35:207][275]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.39.35:265][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.02.04-16.41.15:679][614]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.41.15:739][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.02.04-16.42.26:099][639]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.42.26:163][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.02.04-16.42.27:607][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.02.04-16.42.27:687][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.04-16.42.27:690][784]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bootstrap26C89F2A46773D14AC2E46B15ED8505E.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.42.27:698][784]LogFileHelpers: Saving map 'Bootstrap' took 0.037
+[2022.02.04-16.42.27:698][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.42.27:730][784]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManagerAD154C0647C141A931556E85BCD71196.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.42.27:742][784]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.42.27:742][784]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.42.27:742][784]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.43.34:421][322]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.43.34:479][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.02.04-16.43.35:880][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.02.04-16.43.35:954][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.04-16.43.35:957][445]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bootstrap36488CFA4D30130C4E1F0EAE1E51CE2F.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.43.35:965][445]LogFileHelpers: Saving map 'Bootstrap' took 0.037
+[2022.02.04-16.43.35:965][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.43.35:998][445]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager1D3920A447D8BAFC239104A5ECC74BB3.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.43.36:010][445]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.43.36:010][445]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.43.36:010][445]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.44.03:250][513]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.44.03:307][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.02.04-16.44.04:641][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.02.04-16.44.04:721][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.02.04-16.44.04:724][639]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bootstrap9F6E42AF4910F9AFC5ED0B8E69A4D7C2.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.44.04:733][639]LogFileHelpers: Saving map 'Bootstrap' took 0.037
+[2022.02.04-16.44.04:733][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.44.04:767][639]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager34D63B124B5B52D2FF24B9859EB57A04.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.44.04:778][639]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.44.04:778][639]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.44.04:778][639]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.44.21:687][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.04-16.44.22:890][306]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.44.22:947][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.04-16.45.00:688][723]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2022.02.04-16.45.02:866][914]LogSlate: Window 'Levels' being destroyed
+[2022.02.04-16.45.08:491][577]PIE: Warning: AttachTo: '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.45.08:491][577]PIE: Warning: AttachTo: '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.45.09:382][663]PIE: Warning: AttachTo: '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.45.09:382][663]PIE: Warning: AttachTo: '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.45.10:527][786]PIE: Warning: AttachTo: '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.45.10:527][786]PIE: Warning: AttachTo: '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.45.10:981][819]PIE: Warning: AttachTo: '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.45.10:981][819]PIE: Warning: AttachTo: '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.45.12:170][946]PIE: Warning: AttachTo: '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.45.12:170][946]PIE: Warning: AttachTo: '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.45.12:697][986]PIE: Warning: AttachTo: '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.45.12:697][986]PIE: Warning: AttachTo: '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.45.20:962][904]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.02.04-16.45.21:046][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.02.04-16.45.21:050][904]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BootstrapE38D09074B397F3BDA67B7A4E5875A82.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.45.21:059][904]LogFileHelpers: Saving map 'Bootstrap' took 0.047
+[2022.02.04-16.45.21:070][904]AssetCheck: New page: Asset Save: Bootstrap
+[2022.02.04-16.45.21:070][904]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.45.58:131][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.02.04-16.45.58:178][308]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_01.Level_01
+[2022.02.04-16.45.58:179][308]Cmd: MAP LOAD FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.04-16.45.58:179][308]LightingResults: New page: Lighting Build
+[2022.02.04-16.45.58:179][308]LoadErrors: New page: Loading map: Level_01.umap
+[2022.02.04-16.45.58:180][308]LogWorld: UWorld::CleanupWorld for Bootstrap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.45.58:180][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.45.58:180][308]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.45.58:180][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.45.58:180][308]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.45.58:180][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.45.58:180][308]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.45.58:181][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.45.58:181][308]MapCheck: New page: Map Check
+[2022.02.04-16.45.58:181][308]LightingResults: New page: Lighting Build
+[2022.02.04-16.45.58:210][308]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.04-16.45.58:215][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.02.04-16.45.58:217][308]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2022.02.04-16.45.58:219][308]PIE: Warning: AttachTo: '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.45.58:219][308]PIE: Warning: AttachTo: '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.45.58:242][308]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.04-16.45.58:242][308]LogAIModule: Creating AISystem for world Level_01
+[2022.02.04-16.45.58:277][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.02.04-16.45.58:285][308]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.04-16.45.58:286][308]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,082ms to complete.
+[2022.02.04-16.45.58:286][308]LogFileHelpers: Loading map 'Level_01' took 0.107
+[2022.02.04-16.45.58:331][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.02.04-16.46.00:589][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.04-16.46.00:644][563]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_01.Level_01
+[2022.02.04-16.46.00:644][563]Cmd: MAP LOAD FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.04-16.46.00:644][563]LightingResults: New page: Lighting Build
+[2022.02.04-16.46.00:644][563]LoadErrors: New page: Loading map: Level_01.umap
+[2022.02.04-16.46.00:672][563]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.46.00:672][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.46.00:672][563]MapCheck: New page: Map Check
+[2022.02.04-16.46.00:672][563]LightingResults: New page: Lighting Build
+[2022.02.04-16.46.00:700][563]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.04-16.46.00:705][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.02.04-16.46.00:714][563]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2022.02.04-16.46.00:715][563]LogAIModule: Creating AISystem for world Level_01
+[2022.02.04-16.46.00:718][563]PIE: Warning: AttachTo: '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.46.00:719][563]PIE: Warning: AttachTo: '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.46.00:729][563]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.04-16.46.00:764][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.02.04-16.46.00:772][563]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.04-16.46.00:772][563]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,082ms to complete.
+[2022.02.04-16.46.00:772][563]LogFileHelpers: Loading map 'Level_01' took 0.128
+[2022.02.04-16.46.08:968][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.02.04-16.46.09:058][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.04-16.46.09:074][497]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Level_015ED3B9184A5D0E7AAACD3EB2C74FDEC5.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Level_01.umap'
+[2022.02.04-16.46.09:082][497]LogFileHelpers: Saving map 'Level_01' took 0.054
+[2022.02.04-16.46.09:095][497]AssetCheck: New page: Asset Save: Level_01
+[2022.02.04-16.46.09:095][497]LogContentValidation: Display: Validating World /Game/Levels/Level_01.Level_01
+[2022.02.04-16.46.13:422][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.02.04-16.46.13:486][  1]PIE: Warning: AttachTo: '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.46.13:486][  1]PIE: Warning: AttachTo: '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.46.13:489][  1]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_02.Level_02
+[2022.02.04-16.46.13:489][  1]Cmd: MAP LOAD FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.04-16.46.13:489][  1]LightingResults: New page: Lighting Build
+[2022.02.04-16.46.13:489][  1]LoadErrors: New page: Loading map: Level_02.umap
+[2022.02.04-16.46.13:490][  1]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.46.13:490][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.46.13:491][  1]MapCheck: New page: Map Check
+[2022.02.04-16.46.13:491][  1]LightingResults: New page: Lighting Build
+[2022.02.04-16.46.13:520][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.04-16.46.13:524][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.02.04-16.46.13:525][  1]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2022.02.04-16.46.13:528][  1]PIE: Warning: AttachTo: '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.46.13:528][  1]PIE: Warning: AttachTo: '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.46.13:543][  1]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.04-16.46.13:543][  1]LogAIModule: Creating AISystem for world Level_02
+[2022.02.04-16.46.13:577][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.02.04-16.46.13:586][  1]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.04-16.46.13:586][  1]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,08ms to complete.
+[2022.02.04-16.46.13:586][  1]LogFileHelpers: Loading map 'Level_02' took 0.097
+[2022.02.04-16.46.17:146][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.02.04-16.46.17:226][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.04-16.46.17:239][383]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Level_02DE97243C4D2687EC8B142CACA9683DD5.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Level_02.umap'
+[2022.02.04-16.46.17:247][383]LogFileHelpers: Saving map 'Level_02' took 0.050
+[2022.02.04-16.46.17:257][383]AssetCheck: New page: Asset Save: Level_02
+[2022.02.04-16.46.17:258][383]LogContentValidation: Display: Validating World /Game/Levels/Level_02.Level_02
+[2022.02.04-16.46.20:705][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.02.04-16.46.20:773][778]PIE: Warning: AttachTo: '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.46.20:773][778]PIE: Warning: AttachTo: '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.46.20:783][778]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_03.Level_03
+[2022.02.04-16.46.20:783][778]Cmd: MAP LOAD FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Level_03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.04-16.46.20:783][778]LightingResults: New page: Lighting Build
+[2022.02.04-16.46.20:783][778]LoadErrors: New page: Loading map: Level_03.umap
+[2022.02.04-16.46.20:785][778]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.46.20:785][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.46.20:785][778]MapCheck: New page: Map Check
+[2022.02.04-16.46.20:785][778]LightingResults: New page: Lighting Build
+[2022.02.04-16.46.20:814][778]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.04-16.46.20:818][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.02.04-16.46.20:820][778]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03'.
+[2022.02.04-16.46.20:823][778]PIE: Warning: AttachTo: '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.46.20:823][778]PIE: Warning: AttachTo: '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_03.Level_03:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.46.20:834][778]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.04-16.46.20:834][778]LogAIModule: Creating AISystem for world Level_03
+[2022.02.04-16.46.20:869][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.02.04-16.46.20:878][778]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.04-16.46.20:878][778]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,08ms to complete.
+[2022.02.04-16.46.20:878][778]LogFileHelpers: Loading map 'Level_03' took 0.094
+[2022.02.04-16.46.24:922][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.02.04-16.46.25:008][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.02.04-16.46.25:026][215]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Level_03EE7E91D64303C3E60C5C15AFA22A322E.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Level_03.umap'
+[2022.02.04-16.46.25:051][215]LogFileHelpers: Saving map 'Level_03' took 0.072
+[2022.02.04-16.46.25:064][215]AssetCheck: New page: Asset Save: Level_03
+[2022.02.04-16.46.25:064][215]LogContentValidation: Display: Validating World /Game/Levels/Level_03.Level_03
+[2022.02.04-16.46.33:166][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.02.04-16.46.33:216][169]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.46.33:216][169]Cmd: MAP LOAD FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.04-16.46.33:216][169]LightingResults: New page: Lighting Build
+[2022.02.04-16.46.33:216][169]LoadErrors: New page: Loading map: Bootstrap.umap
+[2022.02.04-16.46.33:217][169]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.46.33:217][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.46.33:218][169]MapCheck: New page: Map Check
+[2022.02.04-16.46.33:218][169]LightingResults: New page: Lighting Build
+[2022.02.04-16.46.33:246][169]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.04-16.46.33:251][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.02.04-16.46.33:252][169]LogAudio: Display: Audio Device (ID: 1) registered with world 'Bootstrap'.
+[2022.02.04-16.46.33:255][169]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Level_02) is flushing async loading
+[2022.02.04-16.46.33:255][169]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.04-16.46.33:265][169]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Level_01) is flushing async loading
+[2022.02.04-16.46.33:277][169]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Level_03) is flushing async loading
+[2022.02.04-16.46.33:290][169]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.04-16.46.33:290][169]LogAIModule: Creating AISystem for world Bootstrap
+[2022.02.04-16.46.33:322][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.02.04-16.46.33:331][169]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.04-16.46.33:331][169]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,177ms to complete.
+[2022.02.04-16.46.33:331][169]LogFileHelpers: Loading map 'Bootstrap' took 0.116
+[2022.02.04-16.46.37:360][627]PIE: Warning: AttachTo: '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.46.37:360][627]PIE: Warning: AttachTo: '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_01.Level_01:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.46.38:680][774]PIE: Warning: AttachTo: '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.46.38:681][774]PIE: Warning: AttachTo: '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/Level_02.Level_02:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.46.40:847][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.02.04-16.46.40:924][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.04-16.46.40:928][ 23]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BootstrapF23EFB98492759DAB08051A1CE911D70.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.46.40:937][ 23]LogFileHelpers: Saving map 'Bootstrap' took 0.042
+[2022.02.04-16.46.40:949][ 23]AssetCheck: New page: Asset Save: Bootstrap
+[2022.02.04-16.46.40:949][ 23]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.47.32:977][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.02.04-16.47.33:029][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.47.33:063][ 19]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager4BA87B06454B8A9759C21FB06BBBAC74.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.47.33:076][ 19]AssetCheck: New page: Asset Save: Bp_GameFlowManager
+[2022.02.04-16.47.33:076][ 19]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.47.33:855][105]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.47.33:915][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.02.04-16.48.41:825][932]BlueprintLog: New page: Compile BP_Player
+[2022.02.04-16.48.41:900][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.02.04-16.48.43:176][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.02.04-16.48.43:264][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.02.04-16.48.43:267][ 65]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bootstrap57A73FE4417044C3097BB29868AEB733.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.48.43:276][ 65]LogFileHelpers: Saving map 'Bootstrap' took 0.044
+[2022.02.04-16.48.43:291][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset" SILENT=true
+[2022.02.04-16.48.43:330][ 65]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Player8E4945D34023021754988395CA38EB69.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset'
+[2022.02.04-16.48.43:344][ 65]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.48.43:344][ 65]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2022.02.04-16.48.43:344][ 65]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.49.48:284][602]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.49.48:345][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.02.04-16.50.55:502][400]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.50.55:565][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.02.04-16.50.57:235][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.02.04-16.50.57:327][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.04-16.50.57:330][576]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bootstrap16A22434449ADEF4FD5C0EB1F92F5A77.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.50.57:339][576]LogFileHelpers: Saving map 'Bootstrap' took 0.042
+[2022.02.04-16.50.57:339][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.50.57:375][576]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManagerE5AABDBC4BBE23EAA79A15A518FA7F40.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.50.57:388][576]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.50.57:388][576]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.50.57:388][576]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.51.13:852][481]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.51.13:913][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.02.04-16.51.15:586][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.02.04-16.51.15:676][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.02.04-16.51.15:680][661]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BootstrapC0270F204AF1D480EDE6298B5836D3A8.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.51.15:688][661]LogFileHelpers: Saving map 'Bootstrap' took 0.042
+[2022.02.04-16.51.15:688][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.51.15:724][661]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManager3B9328964AC0DC4DAB4436B9E705799F.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.51.15:737][661]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.51.15:737][661]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.51.15:737][661]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.51.42:088][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.02.04-16.51.42:147][740]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.51.42:147][740]Cmd: MAP LOAD FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.04-16.51.42:148][740]LightingResults: New page: Lighting Build
+[2022.02.04-16.51.42:148][740]LoadErrors: New page: Loading map: Bootstrap.umap
+[2022.02.04-16.51.42:172][740]LogWorld: UWorld::CleanupWorld for Bootstrap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.51.42:172][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.51.42:172][740]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.51.42:172][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.51.42:172][740]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.51.42:172][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.51.42:173][740]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.51.42:173][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.51.42:173][740]MapCheck: New page: Map Check
+[2022.02.04-16.51.42:173][740]LightingResults: New page: Lighting Build
+[2022.02.04-16.51.42:203][740]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.04-16.51.42:207][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.02.04-16.51.42:212][740]LogAudio: Display: Audio Device (ID: 1) registered with world 'Bootstrap'.
+[2022.02.04-16.51.42:213][740]LogAIModule: Creating AISystem for world Bootstrap
+[2022.02.04-16.51.42:215][740]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Level_03) is flushing async loading
+[2022.02.04-16.51.42:215][740]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.04-16.51.42:229][740]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Level_01) is flushing async loading
+[2022.02.04-16.51.42:242][740]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Level_02) is flushing async loading
+[2022.02.04-16.51.42:251][740]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.04-16.51.42:285][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.02.04-16.51.42:294][740]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.04-16.51.42:294][740]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,177ms to complete.
+[2022.02.04-16.51.42:294][740]LogFileHelpers: Loading map 'Bootstrap' took 0.147
+[2022.02.04-16.51.42:339][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.04-16.52.07:061][582]BlueprintLog: New page: Compile BP_Player
+[2022.02.04-16.52.07:142][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.02.04-16.52.08:308][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.02.04-16.52.08:395][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.02.04-16.52.08:399][702]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bootstrap4D0936F540521E6CBE2D389986433D7C.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.52.08:407][702]LogFileHelpers: Saving map 'Bootstrap' took 0.044
+[2022.02.04-16.52.08:421][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset" SILENT=true
+[2022.02.04-16.52.08:462][702]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Player309E2D224823A8D27134FFA3A0E5E2B3.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Player/BP_Player.uasset'
+[2022.02.04-16.52.08:476][702]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.52.08:476][702]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player.BP_Player
+[2022.02.04-16.52.08:476][702]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.52.12:750][187]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.02.04-16.52.12:756][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.04-16.52.12:757][187]PIE: New page: PIE session: Bootstrap (4 févr. 2022 à 18:52:12)
+[2022.02.04-16.52.12:759][187]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.04-16.52.12:760][187]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.04-16.52.12:760][187]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bootstrap
+[2022.02.04-16.52.12:762][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001639s)
+[2022.02.04-16.52.12:762][187]LogAIModule: Creating AISystem for world Bootstrap
+[2022.02.04-16.52.12:763][187]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2022.02.04-16.52.12:763][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bootstrap.Bootstrap to /Game/Levels/UEDPIE_0_Bootstrap.Bootstrap (0.002856s)
+[2022.02.04-16.52.12:795][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.02.04-16.52.12:796][187]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.04-16.52.12:796][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.04-16.52.12:796][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.04-16.52.12:796][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.04-16.52.12:796][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.04-16.52.12:796][187]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.04-16.52.12:796][187]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.04-16.52.12:796][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.04-16.52.12:796][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.04-16.52.12:796][187]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.04-16.52.12:796][187]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.04-16.52.12:803][187]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.04-16.52.12:803][187]LogAudioMixer: Display: 1: FrontRight
+[2022.02.04-16.52.12:807][187]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2022.02.04-16.52.12:807][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.04-16.52.12:807][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.04-16.52.12:807][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.04-16.52.12:808][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.04-16.52.12:808][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.04-16.52.12:808][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.04-16.52.12:808][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.04-16.52.12:808][187]LogInit: FAudioDevice initialized.
+[2022.02.04-16.52.12:808][187]LogAudio: Display: Audio Device (ID: 2) registered with world 'Bootstrap'.
+[2022.02.04-16.52.12:817][187]LogLoad: Game class is 'BP_Gamemode_C'
+[2022.02.04-16.52.12:817][187]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bootstrap.Bootstrap up for play (max tick rate 0) at 2022.02.04-17.52.12
+[2022.02.04-16.52.12:817][187]LogWorld: Bringing up level for play took: 0.000420
+[2022.02.04-16.52.12:817][187]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.02.04-16.52.12:826][187]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.04-16.52.12:829][187]LogBlueprintUserMessages: [BP_Player_C_2] [Player] NewState=Idle
+[2022.02.04-16.52.12:830][187]PIE: Server logged in
+[2022.02.04-16.52.12:830][187]PIE: Play in editor total start time 0,075 seconds.
+[2022.02.04-16.52.18:244][797]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/GameStateBase_16.svg'. File could not be found
+[2022.02.04-16.52.27:422][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-16.52.27:422][874]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bootstrap
+[2022.02.04-16.52.27:422][874]LogWorld: UWorld::CleanupWorld for Bootstrap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.52.27:422][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.52.27:430][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.04-16.52.27:441][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.52.27:478][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-16.52.27:479][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-16.52.27:480][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-16.52.27:523][874]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2022.02.04-16.52.27:578][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.02.04-16.52.27:616][875]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.02.04-16.52.31:860][367]LogEditorViewport: Clicking Background
+[2022.02.04-16.52.51:710][670]LogEditorViewport: Clicking Background
+[2022.02.04-16.52.53:225][847]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.02.04-16.52.53:230][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.04-16.52.53:230][847]PIE: New page: PIE session: Bootstrap (4 févr. 2022 à 18:52:53)
+[2022.02.04-16.52.53:261][847]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bootstrap
+[2022.02.04-16.52.53:262][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001141s)
+[2022.02.04-16.52.53:263][847]LogAIModule: Creating AISystem for world Bootstrap
+[2022.02.04-16.52.53:263][847]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2022.02.04-16.52.53:263][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bootstrap.Bootstrap to /Game/Levels/UEDPIE_0_Bootstrap.Bootstrap (0.002120s)
+[2022.02.04-16.52.53:297][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.02.04-16.52.53:300][847]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.04-16.52.53:300][847]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.04-16.52.53:300][847]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.04-16.52.53:300][847]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.04-16.52.53:300][847]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.04-16.52.53:300][847]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.04-16.52.53:300][847]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.04-16.52.53:300][847]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.04-16.52.53:300][847]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.04-16.52.53:301][847]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.04-16.52.53:301][847]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.04-16.52.53:306][847]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.04-16.52.53:306][847]LogAudioMixer: Display: 1: FrontRight
+[2022.02.04-16.52.53:309][847]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2022.02.04-16.52.53:310][847]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.04-16.52.53:310][847]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.04-16.52.53:310][847]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.04-16.52.53:310][847]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.04-16.52.53:310][847]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.04-16.52.53:311][847]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.04-16.52.53:311][847]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.04-16.52.53:311][847]LogInit: FAudioDevice initialized.
+[2022.02.04-16.52.53:311][847]LogAudio: Display: Audio Device (ID: 3) registered with world 'Bootstrap'.
+[2022.02.04-16.52.53:320][847]LogLoad: Game class is 'BP_Gamemode_C'
+[2022.02.04-16.52.53:320][847]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bootstrap.Bootstrap up for play (max tick rate 0) at 2022.02.04-17.52.53
+[2022.02.04-16.52.53:320][847]LogWorld: Bringing up level for play took: 0.000376
+[2022.02.04-16.52.53:321][847]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.02.04-16.52.53:322][847]LogBlueprintUserMessages: [BP_Player_C_2] [Player] NewState=Idle
+[2022.02.04-16.52.53:322][847]PIE: Server logged in
+[2022.02.04-16.52.53:323][847]PIE: Play in editor total start time 0,093 seconds.
+[2022.02.04-16.53.00:274][668]Cmd: SELECT NONE
+[2022.02.04-16.53.01:451][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-16.53.01:451][805]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bootstrap
+[2022.02.04-16.53.01:451][805]LogWorld: UWorld::CleanupWorld for Bootstrap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.53.01:452][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.53.01:460][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.04-16.53.01:465][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.53.01:495][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-16.53.01:495][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-16.53.01:496][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-16.53.01:501][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.02.04-16.53.01:533][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.02.04-16.53.01:549][806]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.02.04-16.53.02:021][861]Cmd: SELECT NONE
+[2022.02.04-16.53.02:691][941]Cmd: SELECT NONE
+[2022.02.04-16.53.02:917][967]Cmd: SELECT NONE
+[2022.02.04-16.53.03:093][987]Cmd: SELECT NONE
+[2022.02.04-16.53.03:294][ 11]Cmd: SELECT NONE
+[2022.02.04-16.53.03:480][ 33]Cmd: SELECT NONE
+[2022.02.04-16.53.05:858][317]LogEditorViewport: Clicking Background
+[2022.02.04-16.53.06:452][388]LogEditorViewport: Clicking Background
+[2022.02.04-16.53.06:804][430]LogEditorViewport: Clicking Background
+[2022.02.04-16.53.20:867][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.02.04-16.53.20:913][ 94]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.53.20:914][ 94]Cmd: MAP LOAD FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.04-16.53.20:914][ 94]LightingResults: New page: Lighting Build
+[2022.02.04-16.53.20:914][ 94]LoadErrors: New page: Loading map: Bootstrap.umap
+[2022.02.04-16.53.20:915][ 94]LogWorld: UWorld::CleanupWorld for Bootstrap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.53.20:915][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.53.20:915][ 94]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.53.20:915][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.53.20:915][ 94]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.53.20:915][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.53.20:915][ 94]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.53.20:915][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.53.20:916][ 94]MapCheck: New page: Map Check
+[2022.02.04-16.53.20:916][ 94]LightingResults: New page: Lighting Build
+[2022.02.04-16.53.20:945][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.04-16.53.20:949][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.02.04-16.53.20:953][ 94]LogAudio: Display: Audio Device (ID: 1) registered with world 'Bootstrap'.
+[2022.02.04-16.53.20:953][ 94]LogAIModule: Creating AISystem for world Bootstrap
+[2022.02.04-16.53.20:955][ 94]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Level_02) is flushing async loading
+[2022.02.04-16.53.20:955][ 94]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.04-16.53.20:965][ 94]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Level_01) is flushing async loading
+[2022.02.04-16.53.20:977][ 94]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Level_03) is flushing async loading
+[2022.02.04-16.53.20:991][ 94]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.04-16.53.21:024][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.02.04-16.53.21:033][ 94]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.04-16.53.21:033][ 94]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,175ms to complete.
+[2022.02.04-16.53.21:033][ 94]LogFileHelpers: Loading map 'Bootstrap' took 0.120
+[2022.02.04-16.53.21:078][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.04-16.53.55:552][923]LogSlate: Window 'Details' being destroyed
+[2022.02.04-16.54.02:184][693]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.02.04-16.54.02:191][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.04-16.54.02:191][693]PIE: New page: PIE session: Bootstrap (4 févr. 2022 à 18:54:02)
+[2022.02.04-16.54.02:231][693]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bootstrap
+[2022.02.04-16.54.02:232][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001131s)
+[2022.02.04-16.54.02:233][693]LogAIModule: Creating AISystem for world Bootstrap
+[2022.02.04-16.54.02:233][693]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2022.02.04-16.54.02:233][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bootstrap.Bootstrap to /Game/Levels/UEDPIE_0_Bootstrap.Bootstrap (0.002084s)
+[2022.02.04-16.54.02:266][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.02.04-16.54.02:268][693]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.04-16.54.02:268][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.04-16.54.02:268][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.04-16.54.02:268][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.04-16.54.02:268][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.04-16.54.02:268][693]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.04-16.54.02:268][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.04-16.54.02:268][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.04-16.54.02:268][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.04-16.54.02:269][693]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.04-16.54.02:269][693]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.04-16.54.02:274][693]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.04-16.54.02:274][693]LogAudioMixer: Display: 1: FrontRight
+[2022.02.04-16.54.02:277][693]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2022.02.04-16.54.02:277][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.04-16.54.02:277][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.04-16.54.02:278][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.04-16.54.02:278][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.04-16.54.02:278][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.04-16.54.02:278][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.04-16.54.02:278][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.04-16.54.02:278][693]LogInit: FAudioDevice initialized.
+[2022.02.04-16.54.02:278][693]LogAudio: Display: Audio Device (ID: 4) registered with world 'Bootstrap'.
+[2022.02.04-16.54.02:286][693]LogLoad: Game class is 'BP_Gamemode_C'
+[2022.02.04-16.54.02:286][693]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bootstrap.Bootstrap up for play (max tick rate 0) at 2022.02.04-17.54.02
+[2022.02.04-16.54.02:287][693]LogWorld: Bringing up level for play took: 0.000383
+[2022.02.04-16.54.02:287][693]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.02.04-16.54.02:288][693]LogBlueprintUserMessages: [BP_Player_C_2] [Player] NewState=Idle
+[2022.02.04-16.54.02:288][693]PIE: Server logged in
+[2022.02.04-16.54.02:288][693]PIE: Play in editor total start time 0,1 seconds.
+[2022.02.04-16.54.35:812][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-16.54.35:812][697]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bootstrap
+[2022.02.04-16.54.35:812][697]LogWorld: UWorld::CleanupWorld for Bootstrap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.54.35:812][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.54.35:818][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.04-16.54.35:827][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.54.35:856][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-16.54.35:856][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-16.54.35:857][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-16.54.35:862][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.02.04-16.54.35:894][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.02.04-16.54.35:923][698]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.02.04-16.55.18:239][412]BlueprintLog: New page: Compile Bp_GameFlowManager
+[2022.02.04-16.55.18:306][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.02.04-16.55.21:951][813]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.02.04-16.55.21:957][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.04-16.55.21:957][813]PIE: New page: PIE session: Bootstrap (4 févr. 2022 à 18:55:21)
+[2022.02.04-16.55.21:992][813]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bootstrap
+[2022.02.04-16.55.21:993][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001128s)
+[2022.02.04-16.55.21:994][813]LogAIModule: Creating AISystem for world Bootstrap
+[2022.02.04-16.55.21:994][813]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2022.02.04-16.55.21:994][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bootstrap.Bootstrap to /Game/Levels/UEDPIE_0_Bootstrap.Bootstrap (0.002169s)
+[2022.02.04-16.55.22:028][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.02.04-16.55.22:030][813]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.02.04-16.55.22:030][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.04-16.55.22:030][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.04-16.55.22:030][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.04-16.55.22:030][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.04-16.55.22:030][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.04-16.55.22:030][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.04-16.55.22:030][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.04-16.55.22:030][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.04-16.55.22:031][813]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.04-16.55.22:031][813]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.04-16.55.22:036][813]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.04-16.55.22:036][813]LogAudioMixer: Display: 1: FrontRight
+[2022.02.04-16.55.22:039][813]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2022.02.04-16.55.22:040][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.04-16.55.22:040][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.04-16.55.22:040][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.04-16.55.22:040][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.04-16.55.22:040][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.04-16.55.22:041][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.04-16.55.22:041][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.04-16.55.22:041][813]LogInit: FAudioDevice initialized.
+[2022.02.04-16.55.22:041][813]LogAudio: Display: Audio Device (ID: 5) registered with world 'Bootstrap'.
+[2022.02.04-16.55.22:052][813]LogLoad: Game class is 'BP_Gamemode_C'
+[2022.02.04-16.55.22:052][813]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bootstrap.Bootstrap up for play (max tick rate 0) at 2022.02.04-17.55.22
+[2022.02.04-16.55.22:052][813]LogWorld: Bringing up level for play took: 0.000382
+[2022.02.04-16.55.22:053][813]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.02.04-16.55.22:054][813]LogBlueprintUserMessages: [BP_Player_C_2] [Player] NewState=Idle
+[2022.02.04-16.55.22:054][813]PIE: Server logged in
+[2022.02.04-16.55.22:055][813]PIE: Play in editor total start time 0,098 seconds.
+[2022.02.04-16.55.22:107][816]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.02.04-16.55.22:111][816]PIE: Warning: AttachTo: '/Game/Levels/UEDPIE_0_Level_01_LevelInstance_1.Level_01:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/UEDPIE_0_Level_01_LevelInstance_1.Level_01:PersistentLevel.BP_Door_C_1.Collision' which is static to it. Aborting.
+[2022.02.04-16.55.22:111][816]PIE: Warning: AttachTo: '/Game/Levels/UEDPIE_0_Level_01_LevelInstance_1.Level_01:PersistentLevel.BP_Door_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Game/Levels/UEDPIE_0_Level_01_LevelInstance_1.Level_01:PersistentLevel.BP_Door_C_1.Visual_Door' which is static to it. Aborting.
+[2022.02.04-16.55.22:154][819]LogBlueprintUserMessages: [Bp_TriggerPlayerBase_C_1] ChuiDedanBP_Explosion
+[2022.02.04-16.55.22:154][819]LogBlueprintUserMessages: [BP_Player_C_2] [Player] NewState=Idle
+[2022.02.04-16.55.22:408][846]LogBlueprintUserMessages: [Bp_TriggerPlayerBase_C_1] ChuiPoDan
+[2022.02.04-16.55.25:890][264]LogBlueprintUserMessages: [BP_Player_C_2] [Player] NewState=Moving
+[2022.02.04-16.55.26:040][282]LogBlueprintUserMessages: [BP_Player_C_2] [Player] NewState=Idle
+[2022.02.04-16.55.26:300][313]LogBlueprintUserMessages: [BP_Player_C_2] [Player] NewState=Moving
+[2022.02.04-16.55.26:867][381]LogBlueprintUserMessages: [BP_Player_C_2] [Player] NewState=Idle
+[2022.02.04-16.55.26:893][384]LogBlueprintUserMessages: [BP_TriggerBase_C_5] ChuiDedanBP_Player
+[2022.02.04-16.55.36:467][533]LogBlueprintUserMessages: [BP_GravityTargetBase_C_14] BP_GravityTargetBase8GRABBED
+[2022.02.04-16.55.37:151][615]LogBlueprintUserMessages: [BP_GravityTargetBase_C_14] BP_GravityTargetBase8DROP
+[2022.02.04-16.55.37:959][712]LogBlueprintUserMessages: [BP_GravityTargetBase_C_14] BP_GravityTargetBase8GRABBED
+[2022.02.04-16.55.38:527][780]LogBlueprintUserMessages: [BP_GravityTargetBase_C_14] BP_GravityTargetBase8THROW
+[2022.02.04-16.55.39:109][850]LogBlueprintUserMessages: [BP_GravityTargetBase_C_7] BP_GravityTargetBase4GRABBED
+[2022.02.04-16.55.39:601][909]LogBlueprintUserMessages: [BP_GravityTargetBase_C_7] BP_GravityTargetBase4THROW
+[2022.02.04-16.55.40:159][976]LogBlueprintUserMessages: [BP_GravityTargetBase_C_5] BP_GravityTargetBase3GRABBED
+[2022.02.04-16.55.40:643][ 34]LogBlueprintUserMessages: [BP_GravityTargetBase_C_5] BP_GravityTargetBase3THROW
+[2022.02.04-16.55.42:434][249]LogBlueprintUserMessages: [BP_GravityTargetBase_C_3] BP_GravityTargetBase2GRABBED
+[2022.02.04-16.55.43:076][326]LogBlueprintUserMessages: [BP_GravityTargetBase_C_3] BP_GravityTargetBase2THROW
+[2022.02.04-16.55.44:501][497]LogBlueprintUserMessages: [BP_GravityTargetBase_C_19] BP_GravityTargetBase13GRABBED
+[2022.02.04-16.55.45:134][573]LogBlueprintUserMessages: [BP_GravityTargetBase_C_19] BP_GravityTargetBase13THROW
+[2022.02.04-16.55.46:609][750]LogBlueprintUserMessages: [BP_GravityTargetBase_C_21] BP_GravityTargetBase15GRABBED
+[2022.02.04-16.55.47:151][815]LogBlueprintUserMessages: [BP_GravityTargetBase_C_21] BP_GravityTargetBase15THROW
+[2022.02.04-16.55.47:778][890]LogBlueprintUserMessages: [BP_GravityTargetBase_C_20] BP_GravityTargetBase14GRABBED
+[2022.02.04-16.55.48:851][ 19]LogBlueprintUserMessages: [BP_GravityTargetBase_C_20] BP_GravityTargetBase14THROW
+[2022.02.04-16.55.50:789][246]LogBlueprintUserMessages: [BP_GravityTargetBase_C_30] BP_GravityTargetBase24GRABBED
+[2022.02.04-16.55.51:064][279]LogBlueprintUserMessages: [BP_GravityTargetBase_C_30] BP_GravityTargetBase24THROW
+[2022.02.04-16.55.51:389][318]LogBlueprintUserMessages: [BP_GravityTargetBase_C_27] BP_GravityTargetBase21GRABBED
+[2022.02.04-16.55.51:581][341]LogBlueprintUserMessages: [BP_GravityTargetBase_C_27] BP_GravityTargetBase21DROP
+[2022.02.04-16.55.51:864][375]LogBlueprintUserMessages: [BP_GravityTargetBase_C_27] BP_GravityTargetBase21GRABBED
+[2022.02.04-16.55.51:956][386]LogBlueprintUserMessages: [BP_GravityTargetBase_C_27] BP_GravityTargetBase21THROW
+[2022.02.04-16.55.52:089][402]LogBlueprintUserMessages: [BP_GravityTargetBase_C_31] BP_GravityTargetBase25GRABBED
+[2022.02.04-16.55.52:180][413]LogBlueprintUserMessages: [BP_GravityTargetBase_C_31] BP_GravityTargetBase25THROW
+[2022.02.04-16.55.52:323][430]LogBlueprintUserMessages: [BP_GravityTargetBase_C_26] BP_GravityTargetBase20GRABBED
+[2022.02.04-16.55.52:431][443]LogBlueprintUserMessages: [BP_GravityTargetBase_C_26] BP_GravityTargetBase20THROW
+[2022.02.04-16.55.52:556][458]LogBlueprintUserMessages: [BP_GravityTargetBase_C_15] BP_GravityTargetBase9GRABBED
+[2022.02.04-16.55.52:664][471]LogBlueprintUserMessages: [BP_GravityTargetBase_C_15] BP_GravityTargetBase9THROW
+[2022.02.04-16.55.52:797][487]LogBlueprintUserMessages: [BP_GravityTargetBase_C_15] BP_GravityTargetBase9GRABBED
+[2022.02.04-16.55.52:922][502]LogBlueprintUserMessages: [BP_GravityTargetBase_C_15] BP_GravityTargetBase9THROW
+[2022.02.04-16.55.53:314][549]LogBlueprintUserMessages: [BP_GravityTargetBase_C_9] BP_GravityTargetBase5GRABBED
+[2022.02.04-16.55.53:422][562]LogBlueprintUserMessages: [BP_GravityTargetBase_C_9] BP_GravityTargetBase5THROW
+[2022.02.04-16.55.53:598][583]LogBlueprintUserMessages: [BP_GravityTargetBase_C_9] BP_GravityTargetBase5GRABBED
+[2022.02.04-16.55.53:714][597]LogBlueprintUserMessages: [BP_GravityTargetBase_C_9] BP_GravityTargetBase5THROW
+[2022.02.04-16.55.53:889][618]LogBlueprintUserMessages: [BP_GravityTargetBase_C_9] BP_GravityTargetBase5GRABBED
+[2022.02.04-16.55.53:972][628]LogBlueprintUserMessages: [BP_GravityTargetBase_C_9] BP_GravityTargetBase5THROW
+[2022.02.04-16.55.54:156][650]LogBlueprintUserMessages: [BP_GravityTargetBase_C_9] BP_GravityTargetBase5GRABBED
+[2022.02.04-16.55.54:239][660]LogBlueprintUserMessages: [BP_GravityTargetBase_C_9] BP_GravityTargetBase5THROW
+[2022.02.04-16.55.54:422][682]LogBlueprintUserMessages: [BP_GravityTargetBase_C_9] BP_GravityTargetBase5GRABBED
+[2022.02.04-16.55.54:522][694]LogBlueprintUserMessages: [BP_GravityTargetBase_C_9] BP_GravityTargetBase5THROW
+[2022.02.04-16.55.54:673][712]LogBlueprintUserMessages: [BP_GravityTargetBase_C_9] BP_GravityTargetBase5GRABBED
+[2022.02.04-16.55.54:731][719]LogBlueprintUserMessages: [BP_GravityTargetBase_C_9] BP_GravityTargetBase5THROW
+[2022.02.04-16.55.56:798][967]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.55.57:823][ 90]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6DROP
+[2022.02.04-16.55.58:022][114]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.55.58:164][131]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.55.58:280][145]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.55.58:397][159]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.55.58:497][171]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.55.58:614][185]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.55.58:722][198]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.55.58:856][214]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.55.58:972][228]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.55.59:106][244]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.55.59:206][256]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.55.59:356][274]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.55.59:465][287]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.55.59:581][301]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.55.59:664][311]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.55.59:840][332]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.55.59:947][345]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.56.00:081][361]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.56.00:206][376]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.56.00:356][394]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.56.00:464][407]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.56.00:614][425]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.56.00:723][438]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.56.00:872][456]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.56.01:064][479]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.56.01:239][500]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.56.01:389][518]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.56.01:523][534]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.56.01:664][551]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.56.01:789][566]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.56.01:964][587]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6GRABBED
+[2022.02.04-16.56.02:106][604]LogBlueprintUserMessages: [BP_GravityTargetBase_C_11] BP_GravityTargetBase6THROW
+[2022.02.04-16.56.09:793][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-16.56.09:793][523]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bootstrap
+[2022.02.04-16.56.09:793][523]LogBlueprintUserMessages: [BP_TriggerBase_C_5] ChuiPoDanBP_Player
+[2022.02.04-16.56.09:793][523]LogWorld: UWorld::CleanupWorld for Bootstrap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-16.56.09:793][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.56.09:806][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.04-16.56.09:816][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-16.56.09:846][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.04-16.56.09:846][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-16.56.09:847][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-16.56.09:848][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-16.56.09:853][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.02.04-16.56.09:887][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.02.04-16.56.10:018][524]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.02.04-16.56.10:050][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.02.04-16.56.20:357][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.02.04-16.56.20:429][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.02.04-16.56.20:433][732]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bootstrap4147369A4C6F8407AB8ACD9D93178AF3.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Levels/Bootstrap.umap'
+[2022.02.04-16.56.20:441][732]LogFileHelpers: Saving map 'Bootstrap' took 0.042
+[2022.02.04-16.56.20:441][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/Bp_GameFlowManager" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset" SILENT=true
+[2022.02.04-16.56.20:477][732]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_GameFlowManagerF28811A64BD86A36C30006A8AD7B30F5.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/_Core/Bp_GameFlowManager.uasset'
+[2022.02.04-16.56.20:493][732]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-16.56.20:493][732]LogContentValidation: Display: Validating Blueprint /Game/_Core/Bp_GameFlowManager.Bp_GameFlowManager
+[2022.02.04-16.56.20:493][732]LogContentValidation: Display: Validating World /Game/Levels/Bootstrap.Bootstrap
+[2022.02.04-16.56.35:551][529]LogSlate: Window 'Message Log' being destroyed
+[2022.02.04-16.56.35:556][529]LogSlate: Window 'Message Log' being destroyed
+[2022.02.04-16.56.38:492][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
