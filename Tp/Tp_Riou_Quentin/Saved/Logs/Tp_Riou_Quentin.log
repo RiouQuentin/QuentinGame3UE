@@ -1371,3 +1371,204 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.02.25-15.25.29:055][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
 [2022.02.25-15.25.30:651][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
 [2022.02.25-15.25.32:231][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.25-15.40.49:349][672]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.25-15.41.47:196][507]BlueprintLog: New page: Compile Bp_CollectibleBase
+[2022.02.25-15.41.47:249][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.02.25-15.42.01:121][139]BlueprintLog: New page: Compile Bp_CollectibleBase
+[2022.02.25-15.42.01:170][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.02.25-15.42.33:402][858]BlueprintLog: New page: Compile Bp_CollectibleBase
+[2022.02.25-15.42.33:450][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.02.25-15.42.36:368][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.02.25-15.42.36:450][189]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_CollectibleBase84946B1F4CB1407FFEE73BB383B3BBB7.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/LDIs/Triggers/_Base/Bp_CollectibleBase.uasset'
+[2022.02.25-15.42.36:462][189]AssetCheck: New page: Asset Save: Bp_CollectibleBase
+[2022.02.25-15.42.36:462][189]LogContentValidation: Display: Validating Blueprint /Game/LDIs/Triggers/_Base/Bp_CollectibleBase.Bp_CollectibleBase
+[2022.02.25-15.43.30:676][771]BlueprintLog: New page: Compile Bp_CollectibleBase
+[2022.02.25-15.43.30:725][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.02.25-15.43.32:349][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.02.25-15.43.32:436][943]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_CollectibleBaseFAA835004A549DD376D559BD64F808D2.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/LDIs/Triggers/_Base/Bp_CollectibleBase.uasset'
+[2022.02.25-15.43.32:447][943]AssetCheck: New page: Asset Save: Bp_CollectibleBase
+[2022.02.25-15.43.32:447][943]LogContentValidation: Display: Validating Blueprint /Game/LDIs/Triggers/_Base/Bp_CollectibleBase.Bp_CollectibleBase
+[2022.02.25-15.45.00:385][218]BlueprintLog: New page: Compile BP_Door
+[2022.02.25-15.45.00:393][218]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.00:393][218]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.00:393][218]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_3.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_3.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.00:393][218]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_3.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_3.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.00:436][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.02.25-15.45.00:437][218]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.00:437][218]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.00:438][218]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_3.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_3.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.00:438][218]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_3.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_3.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.00:438][218]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.00:438][218]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.00:441][218]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.00:441][218]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.00:442][218]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.00:442][218]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.02:449][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.02.25-15.45.02:525][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Triggers/BP_Door" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/LDIs/Triggers/BP_Door.uasset" SILENT=true
+[2022.02.25-15.45.02:539][424]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_DoorE504DADA467E4A36FBBB72AED3364C78.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/LDIs/Triggers/BP_Door.uasset'
+[2022.02.25-15.45.02:557][424]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_CollectibleBase18CC0007458C4C8B413F328D01DB8DE6.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/LDIs/Triggers/_Base/Bp_CollectibleBase.uasset'
+[2022.02.25-15.45.02:568][424]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.25-15.45.02:568][424]LogContentValidation: Display: Validating Blueprint /Game/LDIs/Triggers/BP_Door.BP_Door
+[2022.02.25-15.45.02:568][424]LogContentValidation: Display: Validating Blueprint /Game/LDIs/Triggers/_Base/Bp_CollectibleBase.Bp_CollectibleBase
+[2022.02.25-15.45.42:134][  7]BlueprintLog: New page: Compile BP_Door
+[2022.02.25-15.45.42:141][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.42:142][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.42:142][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.42:142][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.42:186][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.02.25-15.45.42:187][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.42:187][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.42:188][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.42:188][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_4.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.42:188][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_5.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_5.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.42:188][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_5.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_5.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.42:191][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.42:191][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_8:PersistentLevel.BP_Door_C_0.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.42:192][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_5.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_5.Collision' which is static to it. Aborting.
+[2022.02.25-15.45.42:192][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_5.DefaultSceneRoot' is not static  (in blueprint "BP_Door"), cannot attach '/Engine/Transient.World_9:PersistentLevel.BP_Door_C_5.Visual_Door' which is static to it. Aborting.
+[2022.02.25-15.45.43:774][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.02.25-15.45.43:842][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Triggers/BP_Door" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/LDIs/Triggers/BP_Door.uasset" SILENT=true
+[2022.02.25-15.45.43:857][169]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Door0232B3E24659BCA8770A54974111C196.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/LDIs/Triggers/BP_Door.uasset'
+[2022.02.25-15.45.43:869][169]AssetCheck: New page: Asset Save: BP_Door
+[2022.02.25-15.45.43:869][169]LogContentValidation: Display: Validating Blueprint /Game/LDIs/Triggers/BP_Door.BP_Door
+[2022.02.25-15.47.47:568][513]BlueprintLog: New page: Compile Bp_CollectibleBase
+[2022.02.25-15.47.47:618][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.02.25-15.47.49:506][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.02.25-15.47.49:556][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Triggers/BP_Door" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/LDIs/Triggers/BP_Door.uasset" SILENT=true
+[2022.02.25-15.47.49:569][719]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Door5EBCA3E343C04EFC7829F9BC45FEDE65.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/LDIs/Triggers/BP_Door.uasset'
+[2022.02.25-15.47.49:599][719]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Bp_CollectibleBase8FBB87454E014D8340953686632156AF.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/LDIs/Triggers/_Base/Bp_CollectibleBase.uasset'
+[2022.02.25-15.47.49:610][719]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.25-15.47.49:610][719]LogContentValidation: Display: Validating Blueprint /Game/LDIs/Triggers/BP_Door.BP_Door
+[2022.02.25-15.47.49:610][719]LogContentValidation: Display: Validating Blueprint /Game/LDIs/Triggers/_Base/Bp_CollectibleBase.Bp_CollectibleBase
+[2022.02.25-15.48.37:554][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.02.25-15.48.47:342][589]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.25-15.49.53:220][422]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LDIs/Triggers/BP_Key.BP_Key
+[2022.02.25-15.50.04:386][683]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/LDIs/Triggers/BP_Key.BP_Key from Bp_TriggerPlayerBase_C to Bp_CollectibleBase_C...
+[2022.02.25-15.50.04:387][683]LogBlueprint: Error: [AssetLog] E:\ProjetGame3QuentinRiou\Git\GitHub\Ue\QuentinGame3UE\Tp\Tp_Riou_Quentin\Content\LDIs\Triggers\BP_Key.uasset: [Compiler] Internal Compiler Error: Tried to create a property bCanCollect in scope SKEL_BP_Key_C, but another object (BoolProperty /Game/LDIs/Triggers/_Base/Bp_CollectibleBase.SKEL_Bp_CollectibleBase_C:bCanCollect) already exists there.
+[2022.02.25-15.50.04:388][683]LogBlueprint: Warning: [AssetLog] E:\ProjetGame3QuentinRiou\Git\GitHub\Ue\QuentinGame3UE\Tp\Tp_Riou_Quentin\Content\LDIs\Triggers\BP_Key.uasset: [Compiler] Found a component variable with a conflicting name (Key) - changed to Key_0.
+[2022.02.25-15.50.04:391][683]BlueprintLog: New page: Compile BP_Key
+[2022.02.25-15.50.04:391][683]LogBlueprint: Warning: [AssetLog] E:\ProjetGame3QuentinRiou\Git\GitHub\Ue\QuentinGame3UE\Tp\Tp_Riou_Quentin\Content\LDIs\Triggers\BP_Key.uasset: [Compiler] Found a member variable with a conflicting name (bCanCollect) - changed to bCanCollect_0.
+[2022.02.25-15.50.04:393][683]LogBlueprint: Error: [AssetLog] E:\ProjetGame3QuentinRiou\Git\GitHub\Ue\QuentinGame3UE\Tp\Tp_Riou_Quentin\Content\LDIs\Triggers\BP_Key.uasset: [Compiler] The property associated with  Can Collect 0  could not be found in '/Game/LDIs/Triggers/BP_Key.BP_Key_C'
+[2022.02.25-15.50.04:393][683]LogBlueprint: Error: [AssetLog] E:\ProjetGame3QuentinRiou\Git\GitHub\Ue\QuentinGame3UE\Tp\Tp_Riou_Quentin\Content\LDIs\Triggers\BP_Key.uasset: [Compiler] The property associated with  Can Collect 0  could not be found in '/Game/LDIs/Triggers/BP_Key.BP_Key_C'
+[2022.02.25-15.50.04:449][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.02.25-15.50.53:392][227]LogSlate: Window 'Delete Variable' being destroyed
+[2022.02.25-15.50.58:741][827]BlueprintLog: New page: Compile BP_Key
+[2022.02.25-15.50.58:794][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.02.25-15.51.58:409][823]BlueprintLog: New page: Compile BP_Key
+[2022.02.25-15.51.58:461][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.02.25-15.51.59:625][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.02.25-15.51.59:689][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/Triggers/BP_Key" FILE="E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/LDIs/Triggers/BP_Key.uasset" SILENT=true
+[2022.02.25-15.51.59:697][940]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/BP_Key76B0CD70429D3D76E538B98B597833FE.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/LDIs/Triggers/BP_Key.uasset'
+[2022.02.25-15.51.59:708][940]AssetCheck: New page: Asset Save: BP_Key
+[2022.02.25-15.51.59:708][940]LogContentValidation: Display: Validating Blueprint /Game/LDIs/Triggers/BP_Key.BP_Key
+[2022.02.25-15.52.28:837][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.25-15.53.53:200][304]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-15.53.53:246][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.02.25-15.56.57:695][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.02.25-15.56.57:697][976]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.040
+[2022.02.25-15.56.57:697][976]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Objectives/_Widgets/WBP_ObjectiveUI] ([1] browsable assets)...
+[2022.02.25-15.56.57:697][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objectives/_Widgets/WBP_ObjectiveUI]
+[2022.02.25-15.56.57:711][976]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI_Auto51741AD72418F0A9A3AAD40B46F9F4058.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/Autosaves/Game/Objectives/_Widgets/WBP_ObjectiveUI_Auto5.uasset'
+[2022.02.25-15.56.57:711][976]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.02.25-15.59.59:467][620]LogEditorTransaction: Undo Add Pin
+[2022.02.25-16.01.51:717][703]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.01.51:767][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.02.25-16.01.53:092][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.02.25-16.01.53:152][847]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUIB2BDB0CB46265683508524926A411ABA.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.01.53:163][847]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.01.53:163][847]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.01.59:747][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.25-16.01.59:802][617]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI7F5AB3244F6DC4A0DF7AD6848294CD02.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.01.59:812][617]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.01.59:812][617]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.02.10:475][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.25-16.02.10:537][875]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI505DEFE74D9C8132F55F84B032FDD314.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.02.10:547][875]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.02.10:547][875]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.04.26:692][697]LogEditorTransaction: Undo Create Pin Link
+[2022.02.25-16.04.28:102][810]LogEditorTransaction: Undo Create Pin Link
+[2022.02.25-16.06.31:477][446]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.06.31:537][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.02.25-16.06.32:902][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.02.25-16.06.32:970][596]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI864BF0C34F5D2AA02BE8A6BCECDC7D14.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.06.32:984][596]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.06.32:984][596]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.06.52:990][932]LogEditorTransaction: Undo Move Node
+[2022.02.25-16.07.09:052][719]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.07.09:109][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.02.25-16.07.11:327][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.02.25-16.07.11:404][972]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI097518A148CD842F70DB3C9DA8F6C2D6.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.07.11:415][972]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.07.11:415][972]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.08.48:842][323]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.08.48:901][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.02.25-16.08.50:217][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.02.25-16.08.50:288][465]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI5504F7EF4520CC905524E88052E608DD.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.08.50:298][465]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.08.50:298][465]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.09.40:834][342]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.09.40:890][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.02.25-16.09.42:083][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.02.25-16.09.42:155][469]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUIC2A1202C4A856A4C0F52A5811BD0FD1C.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.09.42:165][469]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.09.42:165][469]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.13.20:175][782]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.13.20:233][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.02.25-16.13.21:417][909]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.02.25-16.13.21:492][909]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI76E8CEB740F342BDB4C96384942EC862.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.13.21:503][909]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.13.21:503][909]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.13.34:835][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.25-16.13.37:675][836]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.13.37:717][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.25-16.14.20:751][800]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.02.25-16.14.20:825][800]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUIEF9ACA2B4314944086BBA0811A268552.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.14.20:836][800]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.14.20:836][800]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.14.37:674][800]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.14.37:731][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.25-16.14.38:693][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.02.25-16.16.51:365][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.02.25-16.16.51:444][456]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUIED648B774A0E92A3605D099C81E2CB97.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.16.51:456][456]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.16.51:456][456]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.16.52:050][524]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.16.52:106][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.25-16.16.53:193][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.02.25-16.27.56:974][312]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.27.57:025][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.02.25-16.27.58:461][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.02.25-16.27.58:550][462]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI7269F97F46FD77E43642E6A84442050E.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.27.58:561][462]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.27.58:561][462]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.28.28:291][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.02.25-16.28.28:384][856]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI296D74E344D2BCECA8774EA9BEB594FF.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.28.28:395][856]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.28.28:395][856]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.28.29:114][937]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.28.29:172][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.25-16.31.06:835][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.02.25-16.31.06:921][239]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI3BE34B284DF4C2638DC6BE80D697794F.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.31.06:932][239]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.31.06:932][239]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.31.07:532][309]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.31.07:590][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.02.25-16.31.31:345][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.02.25-16.31.31:437][ 74]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI977D34D0451F54600D275B93D92CC620.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.31.31:448][ 74]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.31.31:449][ 74]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.32.22:881][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.02.25-16.32.22:973][986]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI3D2D082D473172A834D7589BEF01EA61.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.32.22:985][986]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.32.22:985][986]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.32.23:840][ 86]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.32.23:900][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.25-16.32.31:115][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.02.25-16.35.28:014][ 81]BlueprintLog: New page: Compile WBP_ObjectiveUI
+[2022.02.25-16.35.28:064][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.02.25-16.35.29:788][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.02.25-16.35.29:872][260]LogSavePackage: Moving 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Saved/WBP_ObjectiveUI3A3AD0364C0746847230EC81EB76D135.tmp' to 'E:/ProjetGame3QuentinRiou/Git/GitHub/Ue/QuentinGame3UE/Tp/Tp_Riou_Quentin/Content/Objectives/_Widgets/WBP_ObjectiveUI.uasset'
+[2022.02.25-16.35.29:882][260]AssetCheck: New page: Asset Save: WBP_ObjectiveUI
+[2022.02.25-16.35.29:882][260]LogContentValidation: Display: Validating WidgetBlueprint /Game/Objectives/_Widgets/WBP_ObjectiveUI.WBP_ObjectiveUI
+[2022.02.25-16.36.33:349][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
